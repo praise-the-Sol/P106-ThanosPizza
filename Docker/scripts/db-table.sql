@@ -1,5 +1,8 @@
 -- CREER DB
 CREATE DATABASE db_thanospizza
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+USE db_thanospizza;
 
 -- CREER TABLES
 CREATE TABLE t_livreur(
