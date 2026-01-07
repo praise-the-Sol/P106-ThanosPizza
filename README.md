@@ -5,18 +5,18 @@ Modéliser et implémenter la base de données d’une pizzeria (commandes, pizz
 Charger des données, effectuer des requêtes SQL, définir des rôles et transactions, et mettre en place une stratégie de sauvegardes/restauration.
 ----------------------------------------------------------
 # Explications
-CHEMIN & FICHIERS				DESCRIPTION							STATUS
+CHEMIN & FICHIERS				DESCRIPTION													STATUS
 /Docker
 	docker-compose.yml			-> chemin du volume script modifié 
 	/scripts
-		db-tables.sql			-> script de création de la db et des tables			OK
-		index.sql			-> commandes d'index						à vérifier
-		load-data.sql			-> charge les données						en cours
-		requetes.sql			-> les requêtes 1 à 10						à vérifier
+		db-tables.sql			-> script de création de la db et des tables				OK
+		index.sql				-> commandes d'index										à vérifier
+		load-data.sql			-> charge les données										en cours
+		requetes.sql			-> les requêtes 1 à 10										à vérifier
 		roles-users.sql			-> création des rôles, des users et attribution des rôles	OK
-		save-rest.sql			-> commandes de backup et de resotre				pas commencé
-		transactions.sql		-> scénario de transaction					pas commencé
-		/DATA				-> les fichiers .csv utilisés pour le load data
+		save-rest.sql			-> commandes de backup et de resotre						pas commencé
+		transactions.sql		-> scénario de transaction									pas commencé
+		/DATA					-> les fichiers .csv utilisés pour le load data
 			t_adresse.csv
 			t_article.csv
 			t_client.csv
