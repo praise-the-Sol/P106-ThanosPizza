@@ -1,153 +1,153 @@
 adresse_id;rue;ville;npa;longitude;latitude
 1;Avenue d'Echallens 25;Lausanne;1005;6.550824;46.592187
 2;Avenue de Morges 36;Lausanne;1005;6.585441;46.577268
-3;Avenue de Sévelin 37;Jouxtens-Mézery;1008;6.583748;46.572605
-4;Rue de Genève 58;Lausanne;1007;6.534512;46.553858
-5;Avenue de Beaulieu 120;Chavannes-près-Renens;1022;6.518865;46.532178
-6;Rue du Nord 110;Chavannes-près-Renens;1022;6.504365;46.577554
-7;Avenue d'Echallens 85;Chavannes-près-Renens;1022;6.565202;46.579239
-8;Rue de Genève 65;Lausanne;1003;6.533199;46.596535
+3;Avenue de SÃ©velin 37;Jouxtens-MÃ©zery;1008;6.583748;46.572605
+4;Rue de GenÃ¨ve 58;Lausanne;1007;6.534512;46.553858
+5;Avenue de Beaulieu 120;Chavannes-prÃ¨s-Renens;1022;6.518865;46.532178
+6;Rue du Nord 110;Chavannes-prÃ¨s-Renens;1022;6.504365;46.577554
+7;Avenue d'Echallens 85;Chavannes-prÃ¨s-Renens;1022;6.565202;46.579239
+8;Rue de GenÃ¨ve 65;Lausanne;1003;6.533199;46.596535
 9;Avenue de Beaulieu 13;Lausanne;1004;6.545693;46.552595
-10;Chemin des Falaises 20;Chavannes-près-Renens;1022;6.578153;46.507483
-11;Chemin des Falaises 11;Chavannes-près-Renens;1022;6.585234;46.585177
-12;Chemin de Bellerive 81;Chavannes-près-Renens;1022;6.57594;46.571872
+10;Chemin des Falaises 20;Chavannes-prÃ¨s-Renens;1022;6.578153;46.507483
+11;Chemin des Falaises 11;Chavannes-prÃ¨s-Renens;1022;6.585234;46.585177
+12;Chemin de Bellerive 81;Chavannes-prÃ¨s-Renens;1022;6.57594;46.571872
 13;Chemin de Montelly 9;Lausanne;1003;6.56844;46.523477
 14;Avenue de Cour 12;Renens VD;1020;6.509844;46.543397
 15;Avenue de Beaulieu 22;Lausanne;1004;6.590342;46.5694
 16;Chemin de Maillefer 46;Lausanne;1003;6.514557;46.537484
-17;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.516998;46.579252
-18;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.591283;46.524083
+17;Chemin de Montelly 88;Chavannes-prÃ¨s-Renens;1022;6.516998;46.579252
+18;Chemin de Montelly 88;Chavannes-prÃ¨s-Renens;1022;6.591283;46.524083
 19;Rue du Nord 60;Lausanne;1005;6.545957;46.56379
 20;Chemin de Maillefer 87;Lausanne;1007;6.507386;46.55466
-21;Chemin des Falaises 55;Jouxtens-Mézery;1008;6.545684;46.569031
-22;Avenue de Beaulieu 14;Chavannes-près-Renens;1022;6.557192;46.523721
-23;Avenue de Sévelin 107;Jouxtens-Mézery;1008;6.527448;46.565823
+21;Chemin des Falaises 55;Jouxtens-MÃ©zery;1008;6.545684;46.569031
+22;Avenue de Beaulieu 14;Chavannes-prÃ¨s-Renens;1022;6.557192;46.523721
+23;Avenue de SÃ©velin 107;Jouxtens-MÃ©zery;1008;6.527448;46.565823
 24;Chemin de Montelly 96;Lausanne;1003;6.590416;46.549673
 25;Chemin de Montelly 103;Renens VD;1020;6.563662;46.535232
 26;Chemin des Falaises 13;Lausanne;1005;6.564634;46.59034
-27;Avenue de Sévelin 75;Lausanne;1007;6.513141;46.536486
+27;Avenue de SÃ©velin 75;Lausanne;1007;6.513141;46.536486
 28;Avenue de Cour 54;Crissier;1023;6.513216;46.517564
 29;Chemin de Pierrefleur 65;Crissier;1023;6.583047;46.591349
 30;Avenue de Provence 38;Lausanne;1007;6.533872;46.574656
-31;Rue de Genève 97;Lausanne;1004;6.586014;46.59665
-32;Avenue de Provence 72;Chavannes-près-Renens;1022;6.579068;46.536578
+31;Rue de GenÃ¨ve 97;Lausanne;1004;6.586014;46.59665
+32;Avenue de Provence 72;Chavannes-prÃ¨s-Renens;1022;6.579068;46.536578
 33;Avenue de Beaulieu 48;Lausanne;1004;6.567234;46.567283
-34;Chemin des Falaises 48;Chavannes-près-Renens;1022;6.523382;46.510835
+34;Chemin des Falaises 48;Chavannes-prÃ¨s-Renens;1022;6.523382;46.510835
 35;Chemin de Montelly 29;Crissier;1023;6.56354;46.564765
 36;Avenue de Cour 39;Lausanne;1007;6.511668;46.564924
 37;Chemin de Maillefer 64;Lausanne;1003;6.52348;46.511612
 38;Avenue d'Echallens 59;Lausanne;1005;6.594938;46.537101
-39;Chemin de Montelly 96;Chavannes-près-Renens;1022;6.588541;46.57266
+39;Chemin de Montelly 96;Chavannes-prÃ¨s-Renens;1022;6.588541;46.57266
 40;Chemin de Montelly 53;Lausanne;1007;6.527974;46.593905
 41;Avenue de Beaulieu 57;Renens VD;1020;6.585545;46.595056
 42;Chemin de Pierrefleur 116;Crissier;1023;6.535867;46.597784
-43;Chemin de Maillefer 25;Chavannes-près-Renens;1022;6.594901;46.596821
+43;Chemin de Maillefer 25;Chavannes-prÃ¨s-Renens;1022;6.594901;46.596821
 44;Chemin des Falaises 28;Lausanne;1004;6.559715;46.56417
 45;Rue du Nord 17;Crissier;1023;6.520521;46.578698
 46;Chemin de Montelly 28;Renens VD;1020;6.5233;46.581305
 47;Chemin de Maillefer 110;Lausanne;1003;6.598753;46.598403
 48;Avenue de Morges 85;Lausanne;1005;6.51318;46.586645
 49;Chemin de Montelly 42;Renens VD;1020;6.526537;46.501578
-50;Chemin de Pierrefleur 15;Chavannes-près-Renens;1022;6.547625;46.574567
+50;Chemin de Pierrefleur 15;Chavannes-prÃ¨s-Renens;1022;6.547625;46.574567
 51;Chemin de Pierrefleur 76;Crissier;1023;6.550384;46.510905
 52;Avenue de Cour 101;Lausanne;1003;6.56589;46.590875
-53;Avenue de Sévelin 62;Lausanne;1003;6.542627;46.58473
+53;Avenue de SÃ©velin 62;Lausanne;1003;6.542627;46.58473
 54;Avenue de Morges 116;Lausanne;1007;6.56083;46.508079
-55;Rue de Genève 36;Lausanne;1004;6.558536;46.562432
-56;Chemin de Montelly 68;Chavannes-près-Renens;1022;6.550555;46.52949
+55;Rue de GenÃ¨ve 36;Lausanne;1004;6.558536;46.562432
+56;Chemin de Montelly 68;Chavannes-prÃ¨s-Renens;1022;6.550555;46.52949
 57;Chemin des Falaises 84;Lausanne;1004;6.555134;46.587771
-58;Avenue de Beaulieu 114;Chavannes-près-Renens;1022;6.533893;46.522849
-59;Avenue de Cour 13;Chavannes-près-Renens;1022;6.531252;46.531255
+58;Avenue de Beaulieu 114;Chavannes-prÃ¨s-Renens;1022;6.533893;46.522849
+59;Avenue de Cour 13;Chavannes-prÃ¨s-Renens;1022;6.531252;46.531255
 60;Chemin des Falaises 119;Lausanne;1005;6.509122;46.547427
-61;Avenue de Morges 96;Chavannes-près-Renens;1022;6.581177;46.57388
+61;Avenue de Morges 96;Chavannes-prÃ¨s-Renens;1022;6.581177;46.57388
 62;Chemin de Montelly 72;Lausanne;1003;6.567001;46.556168
-63;Avenue de Cour 7;Chavannes-près-Renens;1022;6.560041;46.59684
-64;Rue de Genève 85;Renens VD;1020;6.584727;46.548219
+63;Avenue de Cour 7;Chavannes-prÃ¨s-Renens;1022;6.560041;46.59684
+64;Rue de GenÃ¨ve 85;Renens VD;1020;6.584727;46.548219
 65;Avenue de Morges 98;Crissier;1023;6.522616;46.527857
 66;Chemin de Montelly 119;Lausanne;1003;6.569347;46.565783
-67;Avenue de Cour 98;Jouxtens-Mézery;1008;6.533982;46.530898
-68;Rue de Genève 112;Lausanne;1003;6.565734;46.514325
+67;Avenue de Cour 98;Jouxtens-MÃ©zery;1008;6.533982;46.530898
+68;Rue de GenÃ¨ve 112;Lausanne;1003;6.565734;46.514325
 69;Avenue de Morges 96;Lausanne;1003;6.537619;46.553048
 70;Chemin de Bellerive 21;Lausanne;1007;6.57216;46.537005
-71;Avenue de Sévelin 20;Lausanne;1004;6.561784;46.515741
-72;Avenue de Beaulieu 85;Jouxtens-Mézery;1008;6.560708;46.542401
+71;Avenue de SÃ©velin 20;Lausanne;1004;6.561784;46.515741
+72;Avenue de Beaulieu 85;Jouxtens-MÃ©zery;1008;6.560708;46.542401
 73;Avenue de Provence 66;Renens VD;1020;6.542991;46.511382
 74;Chemin de Pierrefleur 86;Lausanne;1007;6.522052;46.530842
-75;Avenue de Sévelin 27;Lausanne;1003;6.521123;46.530142
-76;Chemin de Maillefer 42;Jouxtens-Mézery;1008;6.549739;46.511998
-77;Rue de Genève 17;Chavannes-près-Renens;1022;6.570367;46.538021
+75;Avenue de SÃ©velin 27;Lausanne;1003;6.521123;46.530142
+76;Chemin de Maillefer 42;Jouxtens-MÃ©zery;1008;6.549739;46.511998
+77;Rue de GenÃ¨ve 17;Chavannes-prÃ¨s-Renens;1022;6.570367;46.538021
 78;Avenue de Morges 51;Crissier;1023;6.50423;46.586176
 79;Chemin de Bellerive 74;Lausanne;1004;6.540442;46.542928
-80;Chemin de Maillefer 15;Chavannes-près-Renens;1022;6.59662;46.540503
+80;Chemin de Maillefer 15;Chavannes-prÃ¨s-Renens;1022;6.59662;46.540503
 81;Avenue de Cour 118;Lausanne;1007;6.543671;46.536185
 82;Rue du Nord 56;Lausanne;1004;6.552396;46.558887
-83;Avenue de Cour 44;Jouxtens-Mézery;1008;6.577912;46.522157
+83;Avenue de Cour 44;Jouxtens-MÃ©zery;1008;6.577912;46.522157
 84;Chemin de Pierrefleur 66;Lausanne;1004;6.577623;46.51939
 85;Avenue de Cour 105;Crissier;1023;6.514769;46.564544
-86;Rue du Nord 23;Jouxtens-Mézery;1008;6.576022;46.56024
-87;Rue de Genève 99;Lausanne;1004;6.546395;46.562795
+86;Rue du Nord 23;Jouxtens-MÃ©zery;1008;6.576022;46.56024
+87;Rue de GenÃ¨ve 99;Lausanne;1004;6.546395;46.562795
 88;Chemin des Falaises 119;Lausanne;1007;6.564299;46.588205
 89;Chemin des Falaises 41;Crissier;1023;6.506829;46.515096
-90;Avenue de Provence 36;Jouxtens-Mézery;1008;6.535194;46.559142
+90;Avenue de Provence 36;Jouxtens-MÃ©zery;1008;6.535194;46.559142
 91;Avenue de Beaulieu 5;Lausanne;1007;6.58317;46.505689
 92;Chemin des Falaises 111;Lausanne;1004;6.50903;46.597737
-93;Avenue de Beaulieu 75;Chavannes-près-Renens;1022;6.579182;46.555432
+93;Avenue de Beaulieu 75;Chavannes-prÃ¨s-Renens;1022;6.579182;46.555432
 94;Avenue de Provence 74;Lausanne;1007;6.532153;46.565184
-95;Avenue de Sévelin 58;Lausanne;1005;6.589913;46.51035
+95;Avenue de SÃ©velin 58;Lausanne;1005;6.589913;46.51035
 96;Chemin de Pierrefleur 83;Lausanne;1004;6.524774;46.517256
 97;Chemin de Pierrefleur 67;Lausanne;1007;6.53639;46.560981
-98;Avenue d'Echallens 100;Chavannes-près-Renens;1022;6.559789;46.533837
+98;Avenue d'Echallens 100;Chavannes-prÃ¨s-Renens;1022;6.559789;46.533837
 99;Avenue de Morges 43;Crissier;1023;6.567838;46.509451
 100;Chemin de Bellerive 11;Lausanne;1005;6.514143;46.558274
-101;Rue de Genève 77;Chavannes-près-Renens;1022;6.508472;46.570883
-102;Rue de Genève 86;Crissier;1023;6.594711;46.570283
+101;Rue de GenÃ¨ve 77;Chavannes-prÃ¨s-Renens;1022;6.508472;46.570883
+102;Rue de GenÃ¨ve 86;Crissier;1023;6.594711;46.570283
 103;Chemin des Falaises 86;Lausanne;1004;6.536183;46.542341
 104;Rue du Nord 44;Lausanne;1005;6.548627;46.594767
-105;Rue de Genève 10;Lausanne;1005;6.578812;46.529579
+105;Rue de GenÃ¨ve 10;Lausanne;1005;6.578812;46.529579
 106;Chemin des Falaises 44;Lausanne;1003;6.561803;46.587639
-107;Rue de Genève 24;Lausanne;1005;6.57711;46.583135
+107;Rue de GenÃ¨ve 24;Lausanne;1005;6.57711;46.583135
 108;Avenue de Cour 57;Lausanne;1005;6.53643;46.504369
 109;Chemin de Montelly 37;Lausanne;1007;6.57838;46.575239
 110;Chemin de Maillefer 104;Renens VD;1020;6.590397;46.578437
 111;Chemin de Bellerive 87;Renens VD;1020;6.598444;46.594713
-112;Avenue de Provence 49;Jouxtens-Mézery;1008;6.541866;46.550291
+112;Avenue de Provence 49;Jouxtens-MÃ©zery;1008;6.541866;46.550291
 113;Avenue de Provence 78;Renens VD;1020;6.525;46.51384
 114;Chemin de Bellerive 71;Lausanne;1007;6.57114;46.593429
 115;Chemin de Maillefer 11;Lausanne;1004;6.527279;46.576312
 116;Avenue d'Echallens 12;Lausanne;1005;6.522204;46.594641
-117;Avenue de Sévelin 54;Crissier;1023;6.550201;46.505326
+117;Avenue de SÃ©velin 54;Crissier;1023;6.550201;46.505326
 118;Chemin de Bellerive 29;Lausanne;1004;6.593083;46.502819
 119;Avenue de Provence 19;Crissier;1023;6.528688;46.51376
 120;Avenue de Provence 91;Lausanne;1005;6.561535;46.546911
 121;Chemin de Maillefer 28;Lausanne;1003;6.55488;46.583496
-122;Avenue de Morges 100;Chavannes-près-Renens;1022;6.530115;46.52881
-123;Chemin des Falaises 102;Chavannes-près-Renens;1022;6.506281;46.562281
+122;Avenue de Morges 100;Chavannes-prÃ¨s-Renens;1022;6.530115;46.52881
+123;Chemin des Falaises 102;Chavannes-prÃ¨s-Renens;1022;6.506281;46.562281
 124;Chemin de Montelly 69;Lausanne;1007;6.551538;46.501644
 125;Chemin de Maillefer 55;Lausanne;1005;6.535282;46.500156
-126;Rue de Genève 86;Chavannes-près-Renens;1022;6.552348;46.566821
+126;Rue de GenÃ¨ve 86;Chavannes-prÃ¨s-Renens;1022;6.552348;46.566821
 127;Avenue d'Echallens 112;Lausanne;1003;6.563567;46.547014
-128;Avenue de Cour 3;Jouxtens-Mézery;1008;6.506756;46.535709
+128;Avenue de Cour 3;Jouxtens-MÃ©zery;1008;6.506756;46.535709
 129;Avenue de Provence 75;Lausanne;1004;6.533252;46.573519
 130;Chemin de Bellerive 70;Lausanne;1003;6.56428;46.533855
 131;Avenue de Cour 62;Lausanne;1007;6.58115;46.563174
-132;Avenue de Sévelin 38;Lausanne;1007;6.579111;46.520159
+132;Avenue de SÃ©velin 38;Lausanne;1007;6.579111;46.520159
 133;Chemin de Bellerive 120;Lausanne;1003;6.539822;46.531008
 134;Chemin de Maillefer 5;Lausanne;1007;6.51911;46.575329
 135;Chemin des Falaises 43;Lausanne;1003;6.579934;46.527322
-136;Avenue de Cour 57;Chavannes-près-Renens;1022;6.538664;46.589464
+136;Avenue de Cour 57;Chavannes-prÃ¨s-Renens;1022;6.538664;46.589464
 137;Avenue de Cour 64;Lausanne;1007;6.579729;46.536735
 138;Avenue de Cour 55;Lausanne;1004;6.560245;46.507893
-139;Chemin de Bellerive 14;Jouxtens-Mézery;1008;6.566092;46.508007
-140;Rue de Genève 89;Chavannes-près-Renens;1022;6.544713;46.544391
+139;Chemin de Bellerive 14;Jouxtens-MÃ©zery;1008;6.566092;46.508007
+140;Rue de GenÃ¨ve 89;Chavannes-prÃ¨s-Renens;1022;6.544713;46.544391
 141;Chemin de Montelly 56;Crissier;1023;6.598003;46.527456
 142;Chemin des Falaises 82;Lausanne;1004;6.551309;46.540621
-143;Avenue de Sévelin 19;Lausanne;1005;6.567809;46.584867
+143;Avenue de SÃ©velin 19;Lausanne;1005;6.567809;46.584867
 144;Avenue de Morges 31;Lausanne;1005;6.536633;46.577852
 145;Chemin de Montelly 20;Lausanne;1003;6.594882;46.567906
 146;Chemin de Montelly 18;Lausanne;1004;6.539803;46.552946
 147;Avenue de Morges 4;Renens VD;1020;6.549904;46.573567
 148;Chemin de Maillefer 100;Lausanne;1004;6.544627;46.526029
-149;Avenue de Cour 118;Jouxtens-Mézery;1008;6.520018;46.599863
+149;Avenue de Cour 118;Jouxtens-MÃ©zery;1008;6.520018;46.599863
 150;Avenue de Beaulieu 23;Lausanne;1004;6.544511;46.589868
 151;Avenue de Provence 88;Lausanne;1004;6.598657;46.596756
 152;Chemin de Pierrefleur 70;Lausanne;1004;6.529996;46.529036
@@ -155,70 +155,70 @@ adresse_id;rue;ville;npa;longitude;latitude
 154;Avenue de Provence 18;Renens VD;1020;6.549402;46.523674
 155;Avenue de Beaulieu 103;Crissier;1023;6.512977;46.598301
 156;Chemin de Maillefer 51;Lausanne;1004;6.571887;46.59996
-157;Chemin de Montelly 10;Chavannes-près-Renens;1022;6.531703;46.512533
+157;Chemin de Montelly 10;Chavannes-prÃ¨s-Renens;1022;6.531703;46.512533
 158;Chemin des Falaises 67;Lausanne;1007;6.587796;46.534451
 159;Avenue de Provence 17;Lausanne;1005;6.591071;46.543262
 160;Chemin de Pierrefleur 20;Lausanne;1004;6.516197;46.530412
 161;Chemin de Bellerive 67;Renens VD;1020;6.584593;46.589493
-162;Rue de Genève 81;Jouxtens-Mézery;1008;6.553348;46.530282
+162;Rue de GenÃ¨ve 81;Jouxtens-MÃ©zery;1008;6.553348;46.530282
 163;Chemin de Montelly 75;Lausanne;1005;6.565873;46.515419
 164;Chemin de Montelly 6;Crissier;1023;6.502837;46.582524
-165;Chemin des Falaises 27;Jouxtens-Mézery;1008;6.541659;46.576696
+165;Chemin des Falaises 27;Jouxtens-MÃ©zery;1008;6.541659;46.576696
 166;Avenue de Beaulieu 114;Lausanne;1003;6.528967;46.562716
 167;Rue du Nord 104;Lausanne;1007;6.540609;46.580735
-168;Rue de Genève 57;Lausanne;1003;6.546444;46.541562
+168;Rue de GenÃ¨ve 57;Lausanne;1003;6.546444;46.541562
 169;Chemin de Bellerive 111;Lausanne;1005;6.57342;46.571836
-170;Rue de Genève 98;Chavannes-près-Renens;1022;6.556165;46.537054
+170;Rue de GenÃ¨ve 98;Chavannes-prÃ¨s-Renens;1022;6.556165;46.537054
 171;Avenue de Morges 35;Lausanne;1007;6.514088;46.54496
-172;Chemin de Montelly 54;Chavannes-près-Renens;1022;6.586531;46.524827
+172;Chemin de Montelly 54;Chavannes-prÃ¨s-Renens;1022;6.586531;46.524827
 173;Chemin de Bellerive 120;Lausanne;1005;6.531271;46.557769
 174;Chemin de Pierrefleur 60;Lausanne;1007;6.530854;46.549876
-175;Chemin de Pierrefleur 59;Chavannes-près-Renens;1022;6.521514;46.596669
-176;Avenue de Sévelin 7;Crissier;1023;6.559752;46.528136
+175;Chemin de Pierrefleur 59;Chavannes-prÃ¨s-Renens;1022;6.521514;46.596669
+176;Avenue de SÃ©velin 7;Crissier;1023;6.559752;46.528136
 177;Chemin de Maillefer 69;Lausanne;1007;6.51075;46.500818
-178;Avenue de Cour 47;Jouxtens-Mézery;1008;6.536594;46.576386
-179;Avenue de Sévelin 73;Chavannes-près-Renens;1022;6.536252;46.556182
-180;Chemin de Pierrefleur 58;Chavannes-près-Renens;1022;6.527972;46.57644
-181;Rue de Genève 13;Lausanne;1004;6.57949;46.53939
+178;Avenue de Cour 47;Jouxtens-MÃ©zery;1008;6.536594;46.576386
+179;Avenue de SÃ©velin 73;Chavannes-prÃ¨s-Renens;1022;6.536252;46.556182
+180;Chemin de Pierrefleur 58;Chavannes-prÃ¨s-Renens;1022;6.527972;46.57644
+181;Rue de GenÃ¨ve 13;Lausanne;1004;6.57949;46.53939
 182;Avenue de Provence 19;Crissier;1023;6.550912;46.519906
-183;Avenue de Sévelin 18;Lausanne;1003;6.580397;46.571359
+183;Avenue de SÃ©velin 18;Lausanne;1003;6.580397;46.571359
 184;Chemin de Montelly 115;Lausanne;1005;6.532797;46.551551
 185;Avenue d'Echallens 79;Lausanne;1005;6.529923;46.573932
 186;Avenue de Cour 73;Lausanne;1007;6.581575;46.529979
 187;Avenue d'Echallens 75;Lausanne;1004;6.589877;46.530768
 188;Chemin de Montelly 61;Lausanne;1003;6.565559;46.526553
 189;Avenue de Cour 7;Renens VD;1020;6.517051;46.558352
-190;Rue de Genève 106;Chavannes-près-Renens;1022;6.503157;46.568073
+190;Rue de GenÃ¨ve 106;Chavannes-prÃ¨s-Renens;1022;6.503157;46.568073
 191;Rue du Nord 3;Lausanne;1004;6.541878;46.544104
 192;Avenue d'Echallens 65;Renens VD;1020;6.592052;46.577497
 193;Avenue de Cour 18;Lausanne;1003;6.556089;46.551868
 194;Chemin de Pierrefleur 49;Lausanne;1007;6.517318;46.531375
 195;Chemin de Pierrefleur 46;Crissier;1023;6.586765;46.567587
-196;Chemin de Montelly 62;Jouxtens-Mézery;1008;6.524652;46.519226
+196;Chemin de Montelly 62;Jouxtens-MÃ©zery;1008;6.524652;46.519226
 197;Chemin de Maillefer 99;Renens VD;1020;6.520728;46.5289
 198;Avenue de Beaulieu 45;Crissier;1023;6.593449;46.556049
-199;Avenue de Morges 74;Jouxtens-Mézery;1008;6.537969;46.567662
+199;Avenue de Morges 74;Jouxtens-MÃ©zery;1008;6.537969;46.567662
 200;Avenue de Provence 103;Crissier;1023;6.504207;46.514648
 201;Chemin de Bellerive 119;Lausanne;1004;6.525644;46.544238
 202;Chemin de Pierrefleur 35;Renens VD;1020;6.569617;46.593302
 203;Rue du Nord 7;Renens VD;1020;6.553104;46.566983
-204;Avenue de Sévelin 13;Renens VD;1020;6.571736;46.54133
-205;Avenue de Sévelin 71;Lausanne;1005;6.515794;46.597791
+204;Avenue de SÃ©velin 13;Renens VD;1020;6.571736;46.54133
+205;Avenue de SÃ©velin 71;Lausanne;1005;6.515794;46.597791
 206;Avenue de Beaulieu 84;Lausanne;1007;6.596391;46.519946
 207;Avenue de Provence 12;Lausanne;1003;6.523222;46.56523
-208;Rue de Genève 54;Lausanne;1003;6.517579;46.588224
-209;Avenue de Provence 64;Chavannes-près-Renens;1022;6.5749;46.518631
-210;Avenue de Sévelin 2;Jouxtens-Mézery;1008;6.560278;46.529839
+208;Rue de GenÃ¨ve 54;Lausanne;1003;6.517579;46.588224
+209;Avenue de Provence 64;Chavannes-prÃ¨s-Renens;1022;6.5749;46.518631
+210;Avenue de SÃ©velin 2;Jouxtens-MÃ©zery;1008;6.560278;46.529839
 211;Chemin de Maillefer 59;Crissier;1023;6.55433;46.59891
 212;Chemin de Pierrefleur 60;Lausanne;1005;6.580881;46.527284
 213;Chemin des Falaises 33;Lausanne;1007;6.501408;46.57186
-214;Chemin de Montelly 87;Jouxtens-Mézery;1008;6.517549;46.575728
-215;Avenue d'Echallens 66;Chavannes-près-Renens;1022;6.540083;46.532793
+214;Chemin de Montelly 87;Jouxtens-MÃ©zery;1008;6.517549;46.575728
+215;Avenue d'Echallens 66;Chavannes-prÃ¨s-Renens;1022;6.540083;46.532793
 216;Avenue de Beaulieu 42;Lausanne;1005;6.500683;46.593583
-217;Rue du Nord 58;Chavannes-près-Renens;1022;6.595403;46.575376
+217;Rue du Nord 58;Chavannes-prÃ¨s-Renens;1022;6.595403;46.575376
 218;Chemin de Maillefer 84;Lausanne;1003;6.52363;46.535955
 219;Chemin de Maillefer 21;Lausanne;1007;6.550252;46.540542
-220;Avenue de Cour 16;Jouxtens-Mézery;1008;6.594064;46.563871
+220;Avenue de Cour 16;Jouxtens-MÃ©zery;1008;6.594064;46.563871
 221;Rue du Nord 18;Renens VD;1020;6.545498;46.547818
 222;Avenue d'Echallens 90;Crissier;1023;6.547083;46.554923
 223;Avenue de Provence 32;Renens VD;1020;6.559581;46.568034
@@ -231,42 +231,42 @@ adresse_id;rue;ville;npa;longitude;latitude
 230;Avenue d'Echallens 45;Lausanne;1003;6.554116;46.570038
 231;Avenue de Beaulieu 5;Lausanne;1004;6.517998;46.528709
 232;Avenue de Provence 83;Lausanne;1005;6.564588;46.597833
-233;Avenue de Beaulieu 112;Chavannes-près-Renens;1022;6.53775;46.591712
+233;Avenue de Beaulieu 112;Chavannes-prÃ¨s-Renens;1022;6.53775;46.591712
 234;Chemin des Falaises 111;Lausanne;1005;6.517847;46.534777
-235;Chemin de Pierrefleur 17;Chavannes-près-Renens;1022;6.522269;46.572786
+235;Chemin de Pierrefleur 17;Chavannes-prÃ¨s-Renens;1022;6.522269;46.572786
 236;Chemin de Maillefer 60;Lausanne;1003;6.554445;46.56735
-237;Rue du Nord 32;Chavannes-près-Renens;1022;6.515512;46.546063
-238;Avenue de Sévelin 104;Lausanne;1004;6.561492;46.56602
+237;Rue du Nord 32;Chavannes-prÃ¨s-Renens;1022;6.515512;46.546063
+238;Avenue de SÃ©velin 104;Lausanne;1004;6.561492;46.56602
 239;Rue du Nord 27;Lausanne;1003;6.559394;46.506729
 240;Rue du Nord 95;Lausanne;1003;6.543896;46.504424
-241;Rue de Genève 65;Lausanne;1003;6.523416;46.599348
+241;Rue de GenÃ¨ve 65;Lausanne;1003;6.523416;46.599348
 242;Chemin de Montelly 77;Crissier;1023;6.581838;46.577254
 243;Chemin des Falaises 67;Lausanne;1005;6.53005;46.522104
 244;Chemin de Pierrefleur 76;Lausanne;1003;6.591158;46.587971
-245;Chemin de Pierrefleur 64;Chavannes-près-Renens;1022;6.534441;46.504688
-246;Avenue de Provence 68;Chavannes-près-Renens;1022;6.541632;46.531873
-247;Rue de Genève 97;Chavannes-près-Renens;1022;6.524097;46.553793
+245;Chemin de Pierrefleur 64;Chavannes-prÃ¨s-Renens;1022;6.534441;46.504688
+246;Avenue de Provence 68;Chavannes-prÃ¨s-Renens;1022;6.541632;46.531873
+247;Rue de GenÃ¨ve 97;Chavannes-prÃ¨s-Renens;1022;6.524097;46.553793
 248;Chemin de Maillefer 110;Renens VD;1020;6.580578;46.570758
-249;Avenue d'Echallens 72;Chavannes-près-Renens;1022;6.538842;46.552999
+249;Avenue d'Echallens 72;Chavannes-prÃ¨s-Renens;1022;6.538842;46.552999
 250;Chemin des Falaises 11;Crissier;1023;6.584713;46.592223
-251;Avenue de Sévelin 35;Renens VD;1020;6.560497;46.537717
+251;Avenue de SÃ©velin 35;Renens VD;1020;6.560497;46.537717
 252;Avenue de Morges 25;Lausanne;1003;6.558758;46.580465
 253;Avenue de Beaulieu 27;Renens VD;1020;6.533296;46.586947
 254;Rue du Nord 120;Lausanne;1003;6.574148;46.519002
 255;Rue du Nord 90;Lausanne;1007;6.520451;46.56044
 256;Avenue de Provence 37;Crissier;1023;6.553365;46.538066
-257;Chemin de Bellerive 66;Jouxtens-Mézery;1008;6.5466;46.588281
+257;Chemin de Bellerive 66;Jouxtens-MÃ©zery;1008;6.5466;46.588281
 258;Avenue de Provence 108;Lausanne;1007;6.520313;46.532023
 259;Chemin de Montelly 111;Lausanne;1003;6.514592;46.522127
-260;Chemin de Maillefer 20;Chavannes-près-Renens;1022;6.523002;46.519619
+260;Chemin de Maillefer 20;Chavannes-prÃ¨s-Renens;1022;6.523002;46.519619
 261;Avenue de Beaulieu 71;Renens VD;1020;6.568485;46.565461
 262;Avenue de Cour 83;Lausanne;1007;6.546083;46.573959
-263;Rue de Genève 18;Crissier;1023;6.548832;46.572031
+263;Rue de GenÃ¨ve 18;Crissier;1023;6.548832;46.572031
 264;Chemin de Pierrefleur 5;Lausanne;1003;6.507433;46.583907
 265;Avenue de Provence 1;Lausanne;1003;6.584254;46.541239
-266;Avenue de Sévelin 28;Lausanne;1005;6.53732;46.550573
+266;Avenue de SÃ©velin 28;Lausanne;1005;6.53732;46.550573
 267;Chemin des Falaises 63;Lausanne;1007;6.553221;46.501573
 268;Chemin de Pierrefleur 93;Lausanne;1003;6.597748;46.527474
-269;Avenue de Provence 117;Chavannes-près-Renens;1022;6.591805;46.517927
+269;Avenue de Provence 117;Chavannes-prÃ¨s-Renens;1022;6.591805;46.517927
 270;Rue du Nord 25;Lausanne;1005;6.525242;46.561978
-271;Avenue de Morges 48;Chavannes-près-Renens;1022;6.5459;46.59593
+271;Avenue de Morges 48;Chavannes-prÃ¨s-Renens;1022;6.5459;46.59593
