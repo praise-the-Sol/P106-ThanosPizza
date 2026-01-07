@@ -1,272 +1,272 @@
-adresse_id;client_fk;rue;ville;npa;longitude;latitude;;INSERT INTO t_adresse (adresse_id, client_fk, rue, ville, npa, longitude, latitude)
-1;1;Avenue d'Echallens 25;Lausanne;1005;6.550824;46.592187;;"VALUE ('1','1','Avenue d'Echallens 25','Lausanne', '1005', '6.550824', '46.592187');"
-2;1;Avenue de Morges 36;Lausanne;1005;6.585441;46.577268;;"VALUE ('2','1','Avenue de Morges 36','Lausanne', '1005', '6.585441', '46.577268');"
-3;2;Avenue de Sévelin 37;Jouxtens-Mézery;1008;6.583748;46.572605;;"VALUE ('3','2','Avenue de Sévelin 37','Jouxtens-Mézery', '1008', '6.583748', '46.572605');"
-4;3;Rue de Genève 58;Lausanne;1007;6.534512;46.553858;;"VALUE ('4','3','Rue de Genève 58','Lausanne', '1007', '6.534512', '46.553858');"
-5;4;Avenue de Beaulieu 120;Chavannes-près-Renens;1022;6.518865;46.532178;;"VALUE ('5','4','Avenue de Beaulieu 120','Chavannes-près-Renens', '1022', '6.518865', '46.532178');"
-6;5;Rue du Nord 110;Chavannes-près-Renens;1022;6.504365;46.577554;;"VALUE ('6','5','Rue du Nord 110','Chavannes-près-Renens', '1022', '6.504365', '46.577554');"
-7;6;Avenue d'Echallens 85;Chavannes-près-Renens;1022;6.565202;46.579239;;"VALUE ('7','6','Avenue d'Echallens 85','Chavannes-près-Renens', '1022', '6.565202', '46.579239');"
-8;7;Rue de Genève 65;Lausanne;1003;6.533199;46.596535;;"VALUE ('8','7','Rue de Genève 65','Lausanne', '1003', '6.533199', '46.596535');"
-9;7;Avenue de Beaulieu 13;Lausanne;1004;6.545693;46.552595;;"VALUE ('9','7','Avenue de Beaulieu 13','Lausanne', '1004', '6.545693', '46.552595');"
-10;8;Chemin des Falaises 20;Chavannes-près-Renens;1022;6.578153;46.507483;;"VALUE ('10','8','Chemin des Falaises 20','Chavannes-près-Renens', '1022', '6.578153', '46.507483');"
-11;9;Chemin des Falaises 11;Chavannes-près-Renens;1022;6.585234;46.585177;;"VALUE ('11','9','Chemin des Falaises 11','Chavannes-près-Renens', '1022', '6.585234', '46.585177');"
-12;10;Chemin de Bellerive 81;Chavannes-près-Renens;1022;6.57594;46.571872;;"VALUE ('12','10','Chemin de Bellerive 81','Chavannes-près-Renens', '1022', '6.57594', '46.571872');"
-13;11;Chemin de Montelly 9;Lausanne;1003;6.56844;46.523477;;"VALUE ('13','11','Chemin de Montelly 9','Lausanne', '1003', '6.56844', '46.523477');"
-14;12;Avenue de Cour 12;Renens VD;1020;6.509844;46.543397;;"VALUE ('14','12','Avenue de Cour 12','Renens VD', '1020', '6.509844', '46.543397');"
-15;13;Avenue de Beaulieu 22;Lausanne;1004;6.590342;46.5694;;"VALUE ('15','13','Avenue de Beaulieu 22','Lausanne', '1004', '6.590342', '46.5694');"
-16;14;Chemin de Maillefer 46;Lausanne;1003;6.514557;46.537484;;"VALUE ('16','14','Chemin de Maillefer 46','Lausanne', '1003', '6.514557', '46.537484');"
-17;14;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.516998;46.579252;;"VALUE ('17','14','Chemin de Montelly 88','Chavannes-près-Renens', '1022', '6.516998', '46.579252');"
-18;15;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.591283;46.524083;;"VALUE ('18','15','Chemin de Montelly 88','Chavannes-près-Renens', '1022', '6.591283', '46.524083');"
-19;15;Rue du Nord 60;Lausanne;1005;6.545957;46.56379;;"VALUE ('19','15','Rue du Nord 60','Lausanne', '1005', '6.545957', '46.56379');"
-20;16;Chemin de Maillefer 87;Lausanne;1007;6.507386;46.55466;;"VALUE ('20','16','Chemin de Maillefer 87','Lausanne', '1007', '6.507386', '46.55466');"
-21;17;Chemin des Falaises 55;Jouxtens-Mézery;1008;6.545684;46.569031;;"VALUE ('21','17','Chemin des Falaises 55','Jouxtens-Mézery', '1008', '6.545684', '46.569031');"
-22;18;Avenue de Beaulieu 14;Chavannes-près-Renens;1022;6.557192;46.523721;;"VALUE ('22','18','Avenue de Beaulieu 14','Chavannes-près-Renens', '1022', '6.557192', '46.523721');"
-23;19;Avenue de Sévelin 107;Jouxtens-Mézery;1008;6.527448;46.565823;;"VALUE ('23','19','Avenue de Sévelin 107','Jouxtens-Mézery', '1008', '6.527448', '46.565823');"
-24;20;Chemin de Montelly 96;Lausanne;1003;6.590416;46.549673;;"VALUE ('24','20','Chemin de Montelly 96','Lausanne', '1003', '6.590416', '46.549673');"
-25;21;Chemin de Montelly 103;Renens VD;1020;6.563662;46.535232;;"VALUE ('25','21','Chemin de Montelly 103','Renens VD', '1020', '6.563662', '46.535232');"
-26;22;Chemin des Falaises 13;Lausanne;1005;6.564634;46.59034;;"VALUE ('26','22','Chemin des Falaises 13','Lausanne', '1005', '6.564634', '46.59034');"
-27;23;Avenue de Sévelin 75;Lausanne;1007;6.513141;46.536486;;"VALUE ('27','23','Avenue de Sévelin 75','Lausanne', '1007', '6.513141', '46.536486');"
-28;24;Avenue de Cour 54;Crissier;1023;6.513216;46.517564;;"VALUE ('28','24','Avenue de Cour 54','Crissier', '1023', '6.513216', '46.517564');"
-29;25;Chemin de Pierrefleur 65;Crissier;1023;6.583047;46.591349;;"VALUE ('29','25','Chemin de Pierrefleur 65','Crissier', '1023', '6.583047', '46.591349');"
-30;26;Avenue de Provence 38;Lausanne;1007;6.533872;46.574656;;"VALUE ('30','26','Avenue de Provence 38','Lausanne', '1007', '6.533872', '46.574656');"
-31;27;Rue de Genève 97;Lausanne;1004;6.586014;46.59665;;"VALUE ('31','27','Rue de Genève 97','Lausanne', '1004', '6.586014', '46.59665');"
-32;27;Avenue de Provence 72;Chavannes-près-Renens;1022;6.579068;46.536578;;"VALUE ('32','27','Avenue de Provence 72','Chavannes-près-Renens', '1022', '6.579068', '46.536578');"
-33;28;Avenue de Beaulieu 48;Lausanne;1004;6.567234;46.567283;;"VALUE ('33','28','Avenue de Beaulieu 48','Lausanne', '1004', '6.567234', '46.567283');"
-34;28;Chemin des Falaises 48;Chavannes-près-Renens;1022;6.523382;46.510835;;"VALUE ('34','28','Chemin des Falaises 48','Chavannes-près-Renens', '1022', '6.523382', '46.510835');"
-35;29;Chemin de Montelly 29;Crissier;1023;6.56354;46.564765;;"VALUE ('35','29','Chemin de Montelly 29','Crissier', '1023', '6.56354', '46.564765');"
-36;29;Avenue de Cour 39;Lausanne;1007;6.511668;46.564924;;"VALUE ('36','29','Avenue de Cour 39','Lausanne', '1007', '6.511668', '46.564924');"
-37;30;Chemin de Maillefer 64;Lausanne;1003;6.52348;46.511612;;"VALUE ('37','30','Chemin de Maillefer 64','Lausanne', '1003', '6.52348', '46.511612');"
-38;30;Avenue d'Echallens 59;Lausanne;1005;6.594938;46.537101;;"VALUE ('38','30','Avenue d'Echallens 59','Lausanne', '1005', '6.594938', '46.537101');"
-39;31;Chemin de Montelly 96;Chavannes-près-Renens;1022;6.588541;46.57266;;"VALUE ('39','31','Chemin de Montelly 96','Chavannes-près-Renens', '1022', '6.588541', '46.57266');"
-40;32;Chemin de Montelly 53;Lausanne;1007;6.527974;46.593905;;"VALUE ('40','32','Chemin de Montelly 53','Lausanne', '1007', '6.527974', '46.593905');"
-41;33;Avenue de Beaulieu 57;Renens VD;1020;6.585545;46.595056;;"VALUE ('41','33','Avenue de Beaulieu 57','Renens VD', '1020', '6.585545', '46.595056');"
-42;34;Chemin de Pierrefleur 116;Crissier;1023;6.535867;46.597784;;"VALUE ('42','34','Chemin de Pierrefleur 116','Crissier', '1023', '6.535867', '46.597784');"
-43;34;Chemin de Maillefer 25;Chavannes-près-Renens;1022;6.594901;46.596821;;"VALUE ('43','34','Chemin de Maillefer 25','Chavannes-près-Renens', '1022', '6.594901', '46.596821');"
-44;35;Chemin des Falaises 28;Lausanne;1004;6.559715;46.56417;;"VALUE ('44','35','Chemin des Falaises 28','Lausanne', '1004', '6.559715', '46.56417');"
-45;36;Rue du Nord 17;Crissier;1023;6.520521;46.578698;;"VALUE ('45','36','Rue du Nord 17','Crissier', '1023', '6.520521', '46.578698');"
-46;36;Chemin de Montelly 28;Renens VD;1020;6.5233;46.581305;;"VALUE ('46','36','Chemin de Montelly 28','Renens VD', '1020', '6.5233', '46.581305');"
-47;37;Chemin de Maillefer 110;Lausanne;1003;6.598753;46.598403;;"VALUE ('47','37','Chemin de Maillefer 110','Lausanne', '1003', '6.598753', '46.598403');"
-48;38;Avenue de Morges 85;Lausanne;1005;6.51318;46.586645;;"VALUE ('48','38','Avenue de Morges 85','Lausanne', '1005', '6.51318', '46.586645');"
-49;39;Chemin de Montelly 42;Renens VD;1020;6.526537;46.501578;;"VALUE ('49','39','Chemin de Montelly 42','Renens VD', '1020', '6.526537', '46.501578');"
-50;40;Chemin de Pierrefleur 15;Chavannes-près-Renens;1022;6.547625;46.574567;;"VALUE ('50','40','Chemin de Pierrefleur 15','Chavannes-près-Renens', '1022', '6.547625', '46.574567');"
-51;40;Chemin de Pierrefleur 76;Crissier;1023;6.550384;46.510905;;"VALUE ('51','40','Chemin de Pierrefleur 76','Crissier', '1023', '6.550384', '46.510905');"
-52;41;Avenue de Cour 101;Lausanne;1003;6.56589;46.590875;;"VALUE ('52','41','Avenue de Cour 101','Lausanne', '1003', '6.56589', '46.590875');"
-53;42;Avenue de Sévelin 62;Lausanne;1003;6.542627;46.58473;;"VALUE ('53','42','Avenue de Sévelin 62','Lausanne', '1003', '6.542627', '46.58473');"
-54;43;Avenue de Morges 116;Lausanne;1007;6.56083;46.508079;;"VALUE ('54','43','Avenue de Morges 116','Lausanne', '1007', '6.56083', '46.508079');"
-55;43;Rue de Genève 36;Lausanne;1004;6.558536;46.562432;;"VALUE ('55','43','Rue de Genève 36','Lausanne', '1004', '6.558536', '46.562432');"
-56;44;Chemin de Montelly 68;Chavannes-près-Renens;1022;6.550555;46.52949;;"VALUE ('56','44','Chemin de Montelly 68','Chavannes-près-Renens', '1022', '6.550555', '46.52949');"
-57;45;Chemin des Falaises 84;Lausanne;1004;6.555134;46.587771;;"VALUE ('57','45','Chemin des Falaises 84','Lausanne', '1004', '6.555134', '46.587771');"
-58;46;Avenue de Beaulieu 114;Chavannes-près-Renens;1022;6.533893;46.522849;;"VALUE ('58','46','Avenue de Beaulieu 114','Chavannes-près-Renens', '1022', '6.533893', '46.522849');"
-59;47;Avenue de Cour 13;Chavannes-près-Renens;1022;6.531252;46.531255;;"VALUE ('59','47','Avenue de Cour 13','Chavannes-près-Renens', '1022', '6.531252', '46.531255');"
-60;48;Chemin des Falaises 119;Lausanne;1005;6.509122;46.547427;;"VALUE ('60','48','Chemin des Falaises 119','Lausanne', '1005', '6.509122', '46.547427');"
-61;49;Avenue de Morges 96;Chavannes-près-Renens;1022;6.581177;46.57388;;"VALUE ('61','49','Avenue de Morges 96','Chavannes-près-Renens', '1022', '6.581177', '46.57388');"
-62;49;Chemin de Montelly 72;Lausanne;1003;6.567001;46.556168;;"VALUE ('62','49','Chemin de Montelly 72','Lausanne', '1003', '6.567001', '46.556168');"
-63;50;Avenue de Cour 7;Chavannes-près-Renens;1022;6.560041;46.59684;;"VALUE ('63','50','Avenue de Cour 7','Chavannes-près-Renens', '1022', '6.560041', '46.59684');"
-64;51;Rue de Genève 85;Renens VD;1020;6.584727;46.548219;;"VALUE ('64','51','Rue de Genève 85','Renens VD', '1020', '6.584727', '46.548219');"
-65;52;Avenue de Morges 98;Crissier;1023;6.522616;46.527857;;"VALUE ('65','52','Avenue de Morges 98','Crissier', '1023', '6.522616', '46.527857');"
-66;53;Chemin de Montelly 119;Lausanne;1003;6.569347;46.565783;;"VALUE ('66','53','Chemin de Montelly 119','Lausanne', '1003', '6.569347', '46.565783');"
-67;54;Avenue de Cour 98;Jouxtens-Mézery;1008;6.533982;46.530898;;"VALUE ('67','54','Avenue de Cour 98','Jouxtens-Mézery', '1008', '6.533982', '46.530898');"
-68;54;Rue de Genève 112;Lausanne;1003;6.565734;46.514325;;"VALUE ('68','54','Rue de Genève 112','Lausanne', '1003', '6.565734', '46.514325');"
-69;55;Avenue de Morges 96;Lausanne;1003;6.537619;46.553048;;"VALUE ('69','55','Avenue de Morges 96','Lausanne', '1003', '6.537619', '46.553048');"
-70;55;Chemin de Bellerive 21;Lausanne;1007;6.57216;46.537005;;"VALUE ('70','55','Chemin de Bellerive 21','Lausanne', '1007', '6.57216', '46.537005');"
-71;56;Avenue de Sévelin 20;Lausanne;1004;6.561784;46.515741;;"VALUE ('71','56','Avenue de Sévelin 20','Lausanne', '1004', '6.561784', '46.515741');"
-72;57;Avenue de Beaulieu 85;Jouxtens-Mézery;1008;6.560708;46.542401;;"VALUE ('72','57','Avenue de Beaulieu 85','Jouxtens-Mézery', '1008', '6.560708', '46.542401');"
-73;58;Avenue de Provence 66;Renens VD;1020;6.542991;46.511382;;"VALUE ('73','58','Avenue de Provence 66','Renens VD', '1020', '6.542991', '46.511382');"
-74;59;Chemin de Pierrefleur 86;Lausanne;1007;6.522052;46.530842;;"VALUE ('74','59','Chemin de Pierrefleur 86','Lausanne', '1007', '6.522052', '46.530842');"
-75;60;Avenue de Sévelin 27;Lausanne;1003;6.521123;46.530142;;"VALUE ('75','60','Avenue de Sévelin 27','Lausanne', '1003', '6.521123', '46.530142');"
-76;61;Chemin de Maillefer 42;Jouxtens-Mézery;1008;6.549739;46.511998;;"VALUE ('76','61','Chemin de Maillefer 42','Jouxtens-Mézery', '1008', '6.549739', '46.511998');"
-77;61;Rue de Genève 17;Chavannes-près-Renens;1022;6.570367;46.538021;;"VALUE ('77','61','Rue de Genève 17','Chavannes-près-Renens', '1022', '6.570367', '46.538021');"
-78;62;Avenue de Morges 51;Crissier;1023;6.50423;46.586176;;"VALUE ('78','62','Avenue de Morges 51','Crissier', '1023', '6.50423', '46.586176');"
-79;63;Chemin de Bellerive 74;Lausanne;1004;6.540442;46.542928;;"VALUE ('79','63','Chemin de Bellerive 74','Lausanne', '1004', '6.540442', '46.542928');"
-80;63;Chemin de Maillefer 15;Chavannes-près-Renens;1022;6.59662;46.540503;;"VALUE ('80','63','Chemin de Maillefer 15','Chavannes-près-Renens', '1022', '6.59662', '46.540503');"
-81;64;Avenue de Cour 118;Lausanne;1007;6.543671;46.536185;;"VALUE ('81','64','Avenue de Cour 118','Lausanne', '1007', '6.543671', '46.536185');"
-82;64;Rue du Nord 56;Lausanne;1004;6.552396;46.558887;;"VALUE ('82','64','Rue du Nord 56','Lausanne', '1004', '6.552396', '46.558887');"
-83;65;Avenue de Cour 44;Jouxtens-Mézery;1008;6.577912;46.522157;;"VALUE ('83','65','Avenue de Cour 44','Jouxtens-Mézery', '1008', '6.577912', '46.522157');"
-84;66;Chemin de Pierrefleur 66;Lausanne;1004;6.577623;46.51939;;"VALUE ('84','66','Chemin de Pierrefleur 66','Lausanne', '1004', '6.577623', '46.51939');"
-85;66;Avenue de Cour 105;Crissier;1023;6.514769;46.564544;;"VALUE ('85','66','Avenue de Cour 105','Crissier', '1023', '6.514769', '46.564544');"
-86;67;Rue du Nord 23;Jouxtens-Mézery;1008;6.576022;46.56024;;"VALUE ('86','67','Rue du Nord 23','Jouxtens-Mézery', '1008', '6.576022', '46.56024');"
-87;67;Rue de Genève 99;Lausanne;1004;6.546395;46.562795;;"VALUE ('87','67','Rue de Genève 99','Lausanne', '1004', '6.546395', '46.562795');"
-88;68;Chemin des Falaises 119;Lausanne;1007;6.564299;46.588205;;"VALUE ('88','68','Chemin des Falaises 119','Lausanne', '1007', '6.564299', '46.588205');"
-89;69;Chemin des Falaises 41;Crissier;1023;6.506829;46.515096;;"VALUE ('89','69','Chemin des Falaises 41','Crissier', '1023', '6.506829', '46.515096');"
-90;70;Avenue de Provence 36;Jouxtens-Mézery;1008;6.535194;46.559142;;"VALUE ('90','70','Avenue de Provence 36','Jouxtens-Mézery', '1008', '6.535194', '46.559142');"
-91;71;Avenue de Beaulieu 5;Lausanne;1007;6.58317;46.505689;;"VALUE ('91','71','Avenue de Beaulieu 5','Lausanne', '1007', '6.58317', '46.505689');"
-92;71;Chemin des Falaises 111;Lausanne;1004;6.50903;46.597737;;"VALUE ('92','71','Chemin des Falaises 111','Lausanne', '1004', '6.50903', '46.597737');"
-93;72;Avenue de Beaulieu 75;Chavannes-près-Renens;1022;6.579182;46.555432;;"VALUE ('93','72','Avenue de Beaulieu 75','Chavannes-près-Renens', '1022', '6.579182', '46.555432');"
-94;73;Avenue de Provence 74;Lausanne;1007;6.532153;46.565184;;"VALUE ('94','73','Avenue de Provence 74','Lausanne', '1007', '6.532153', '46.565184');"
-95;74;Avenue de Sévelin 58;Lausanne;1005;6.589913;46.51035;;"VALUE ('95','74','Avenue de Sévelin 58','Lausanne', '1005', '6.589913', '46.51035');"
-96;75;Chemin de Pierrefleur 83;Lausanne;1004;6.524774;46.517256;;"VALUE ('96','75','Chemin de Pierrefleur 83','Lausanne', '1004', '6.524774', '46.517256');"
-97;76;Chemin de Pierrefleur 67;Lausanne;1007;6.53639;46.560981;;"VALUE ('97','76','Chemin de Pierrefleur 67','Lausanne', '1007', '6.53639', '46.560981');"
-98;77;Avenue d'Echallens 100;Chavannes-près-Renens;1022;6.559789;46.533837;;"VALUE ('98','77','Avenue d'Echallens 100','Chavannes-près-Renens', '1022', '6.559789', '46.533837');"
-99;78;Avenue de Morges 43;Crissier;1023;6.567838;46.509451;;"VALUE ('99','78','Avenue de Morges 43','Crissier', '1023', '6.567838', '46.509451');"
-100;79;Chemin de Bellerive 11;Lausanne;1005;6.514143;46.558274;;"VALUE ('100','79','Chemin de Bellerive 11','Lausanne', '1005', '6.514143', '46.558274');"
-101;80;Rue de Genève 77;Chavannes-près-Renens;1022;6.508472;46.570883;;"VALUE ('101','80','Rue de Genève 77','Chavannes-près-Renens', '1022', '6.508472', '46.570883');"
-102;81;Rue de Genève 86;Crissier;1023;6.594711;46.570283;;"VALUE ('102','81','Rue de Genève 86','Crissier', '1023', '6.594711', '46.570283');"
-103;82;Chemin des Falaises 86;Lausanne;1004;6.536183;46.542341;;"VALUE ('103','82','Chemin des Falaises 86','Lausanne', '1004', '6.536183', '46.542341');"
-104;83;Rue du Nord 44;Lausanne;1005;6.548627;46.594767;;"VALUE ('104','83','Rue du Nord 44','Lausanne', '1005', '6.548627', '46.594767');"
-105;84;Rue de Genève 10;Lausanne;1005;6.578812;46.529579;;"VALUE ('105','84','Rue de Genève 10','Lausanne', '1005', '6.578812', '46.529579');"
-106;84;Chemin des Falaises 44;Lausanne;1003;6.561803;46.587639;;"VALUE ('106','84','Chemin des Falaises 44','Lausanne', '1003', '6.561803', '46.587639');"
-107;85;Rue de Genève 24;Lausanne;1005;6.57711;46.583135;;"VALUE ('107','85','Rue de Genève 24','Lausanne', '1005', '6.57711', '46.583135');"
-108;86;Avenue de Cour 57;Lausanne;1005;6.53643;46.504369;;"VALUE ('108','86','Avenue de Cour 57','Lausanne', '1005', '6.53643', '46.504369');"
-109;87;Chemin de Montelly 37;Lausanne;1007;6.57838;46.575239;;"VALUE ('109','87','Chemin de Montelly 37','Lausanne', '1007', '6.57838', '46.575239');"
-110;88;Chemin de Maillefer 104;Renens VD;1020;6.590397;46.578437;;"VALUE ('110','88','Chemin de Maillefer 104','Renens VD', '1020', '6.590397', '46.578437');"
-111;88;Chemin de Bellerive 87;Renens VD;1020;6.598444;46.594713;;"VALUE ('111','88','Chemin de Bellerive 87','Renens VD', '1020', '6.598444', '46.594713');"
-112;89;Avenue de Provence 49;Jouxtens-Mézery;1008;6.541866;46.550291;;"VALUE ('112','89','Avenue de Provence 49','Jouxtens-Mézery', '1008', '6.541866', '46.550291');"
-113;90;Avenue de Provence 78;Renens VD;1020;6.525;46.51384;;"VALUE ('113','90','Avenue de Provence 78','Renens VD', '1020', '6.525', '46.51384');"
-114;90;Chemin de Bellerive 71;Lausanne;1007;6.57114;46.593429;;"VALUE ('114','90','Chemin de Bellerive 71','Lausanne', '1007', '6.57114', '46.593429');"
-115;91;Chemin de Maillefer 11;Lausanne;1004;6.527279;46.576312;;"VALUE ('115','91','Chemin de Maillefer 11','Lausanne', '1004', '6.527279', '46.576312');"
-116;92;Avenue d'Echallens 12;Lausanne;1005;6.522204;46.594641;;"VALUE ('116','92','Avenue d'Echallens 12','Lausanne', '1005', '6.522204', '46.594641');"
-117;93;Avenue de Sévelin 54;Crissier;1023;6.550201;46.505326;;"VALUE ('117','93','Avenue de Sévelin 54','Crissier', '1023', '6.550201', '46.505326');"
-118;94;Chemin de Bellerive 29;Lausanne;1004;6.593083;46.502819;;"VALUE ('118','94','Chemin de Bellerive 29','Lausanne', '1004', '6.593083', '46.502819');"
-119;94;Avenue de Provence 19;Crissier;1023;6.528688;46.51376;;"VALUE ('119','94','Avenue de Provence 19','Crissier', '1023', '6.528688', '46.51376');"
-120;95;Avenue de Provence 91;Lausanne;1005;6.561535;46.546911;;"VALUE ('120','95','Avenue de Provence 91','Lausanne', '1005', '6.561535', '46.546911');"
-121;96;Chemin de Maillefer 28;Lausanne;1003;6.55488;46.583496;;"VALUE ('121','96','Chemin de Maillefer 28','Lausanne', '1003', '6.55488', '46.583496');"
-122;97;Avenue de Morges 100;Chavannes-près-Renens;1022;6.530115;46.52881;;"VALUE ('122','97','Avenue de Morges 100','Chavannes-près-Renens', '1022', '6.530115', '46.52881');"
-123;98;Chemin des Falaises 102;Chavannes-près-Renens;1022;6.506281;46.562281;;"VALUE ('123','98','Chemin des Falaises 102','Chavannes-près-Renens', '1022', '6.506281', '46.562281');"
-124;98;Chemin de Montelly 69;Lausanne;1007;6.551538;46.501644;;"VALUE ('124','98','Chemin de Montelly 69','Lausanne', '1007', '6.551538', '46.501644');"
-125;99;Chemin de Maillefer 55;Lausanne;1005;6.535282;46.500156;;"VALUE ('125','99','Chemin de Maillefer 55','Lausanne', '1005', '6.535282', '46.500156');"
-126;99;Rue de Genève 86;Chavannes-près-Renens;1022;6.552348;46.566821;;"VALUE ('126','99','Rue de Genève 86','Chavannes-près-Renens', '1022', '6.552348', '46.566821');"
-127;100;Avenue d'Echallens 112;Lausanne;1003;6.563567;46.547014;;"VALUE ('127','100','Avenue d'Echallens 112','Lausanne', '1003', '6.563567', '46.547014');"
-128;101;Avenue de Cour 3;Jouxtens-Mézery;1008;6.506756;46.535709;;"VALUE ('128','101','Avenue de Cour 3','Jouxtens-Mézery', '1008', '6.506756', '46.535709');"
-129;102;Avenue de Provence 75;Lausanne;1004;6.533252;46.573519;;"VALUE ('129','102','Avenue de Provence 75','Lausanne', '1004', '6.533252', '46.573519');"
-130;102;Chemin de Bellerive 70;Lausanne;1003;6.56428;46.533855;;"VALUE ('130','102','Chemin de Bellerive 70','Lausanne', '1003', '6.56428', '46.533855');"
-131;103;Avenue de Cour 62;Lausanne;1007;6.58115;46.563174;;"VALUE ('131','103','Avenue de Cour 62','Lausanne', '1007', '6.58115', '46.563174');"
-132;104;Avenue de Sévelin 38;Lausanne;1007;6.579111;46.520159;;"VALUE ('132','104','Avenue de Sévelin 38','Lausanne', '1007', '6.579111', '46.520159');"
-133;104;Chemin de Bellerive 120;Lausanne;1003;6.539822;46.531008;;"VALUE ('133','104','Chemin de Bellerive 120','Lausanne', '1003', '6.539822', '46.531008');"
-134;105;Chemin de Maillefer 5;Lausanne;1007;6.51911;46.575329;;"VALUE ('134','105','Chemin de Maillefer 5','Lausanne', '1007', '6.51911', '46.575329');"
-135;106;Chemin des Falaises 43;Lausanne;1003;6.579934;46.527322;;"VALUE ('135','106','Chemin des Falaises 43','Lausanne', '1003', '6.579934', '46.527322');"
-136;107;Avenue de Cour 57;Chavannes-près-Renens;1022;6.538664;46.589464;;"VALUE ('136','107','Avenue de Cour 57','Chavannes-près-Renens', '1022', '6.538664', '46.589464');"
-137;108;Avenue de Cour 64;Lausanne;1007;6.579729;46.536735;;"VALUE ('137','108','Avenue de Cour 64','Lausanne', '1007', '6.579729', '46.536735');"
-138;109;Avenue de Cour 55;Lausanne;1004;6.560245;46.507893;;"VALUE ('138','109','Avenue de Cour 55','Lausanne', '1004', '6.560245', '46.507893');"
-139;110;Chemin de Bellerive 14;Jouxtens-Mézery;1008;6.566092;46.508007;;"VALUE ('139','110','Chemin de Bellerive 14','Jouxtens-Mézery', '1008', '6.566092', '46.508007');"
-140;111;Rue de Genève 89;Chavannes-près-Renens;1022;6.544713;46.544391;;"VALUE ('140','111','Rue de Genève 89','Chavannes-près-Renens', '1022', '6.544713', '46.544391');"
-141;112;Chemin de Montelly 56;Crissier;1023;6.598003;46.527456;;"VALUE ('141','112','Chemin de Montelly 56','Crissier', '1023', '6.598003', '46.527456');"
-142;113;Chemin des Falaises 82;Lausanne;1004;6.551309;46.540621;;"VALUE ('142','113','Chemin des Falaises 82','Lausanne', '1004', '6.551309', '46.540621');"
-143;114;Avenue de Sévelin 19;Lausanne;1005;6.567809;46.584867;;"VALUE ('143','114','Avenue de Sévelin 19','Lausanne', '1005', '6.567809', '46.584867');"
-144;115;Avenue de Morges 31;Lausanne;1005;6.536633;46.577852;;"VALUE ('144','115','Avenue de Morges 31','Lausanne', '1005', '6.536633', '46.577852');"
-145;116;Chemin de Montelly 20;Lausanne;1003;6.594882;46.567906;;"VALUE ('145','116','Chemin de Montelly 20','Lausanne', '1003', '6.594882', '46.567906');"
-146;117;Chemin de Montelly 18;Lausanne;1004;6.539803;46.552946;;"VALUE ('146','117','Chemin de Montelly 18','Lausanne', '1004', '6.539803', '46.552946');"
-147;118;Avenue de Morges 4;Renens VD;1020;6.549904;46.573567;;"VALUE ('147','118','Avenue de Morges 4','Renens VD', '1020', '6.549904', '46.573567');"
-148;119;Chemin de Maillefer 100;Lausanne;1004;6.544627;46.526029;;"VALUE ('148','119','Chemin de Maillefer 100','Lausanne', '1004', '6.544627', '46.526029');"
-149;120;Avenue de Cour 118;Jouxtens-Mézery;1008;6.520018;46.599863;;"VALUE ('149','120','Avenue de Cour 118','Jouxtens-Mézery', '1008', '6.520018', '46.599863');"
-150;121;Avenue de Beaulieu 23;Lausanne;1004;6.544511;46.589868;;"VALUE ('150','121','Avenue de Beaulieu 23','Lausanne', '1004', '6.544511', '46.589868');"
-151;121;Avenue de Provence 88;Lausanne;1004;6.598657;46.596756;;"VALUE ('151','121','Avenue de Provence 88','Lausanne', '1004', '6.598657', '46.596756');"
-152;122;Chemin de Pierrefleur 70;Lausanne;1004;6.529996;46.529036;;"VALUE ('152','122','Chemin de Pierrefleur 70','Lausanne', '1004', '6.529996', '46.529036');"
-153;123;Avenue de Provence 47;Lausanne;1005;6.512136;46.550876;;"VALUE ('153','123','Avenue de Provence 47','Lausanne', '1005', '6.512136', '46.550876');"
-154;123;Avenue de Provence 18;Renens VD;1020;6.549402;46.523674;;"VALUE ('154','123','Avenue de Provence 18','Renens VD', '1020', '6.549402', '46.523674');"
-155;124;Avenue de Beaulieu 103;Crissier;1023;6.512977;46.598301;;"VALUE ('155','124','Avenue de Beaulieu 103','Crissier', '1023', '6.512977', '46.598301');"
-156;125;Chemin de Maillefer 51;Lausanne;1004;6.571887;46.59996;;"VALUE ('156','125','Chemin de Maillefer 51','Lausanne', '1004', '6.571887', '46.59996');"
-157;126;Chemin de Montelly 10;Chavannes-près-Renens;1022;6.531703;46.512533;;"VALUE ('157','126','Chemin de Montelly 10','Chavannes-près-Renens', '1022', '6.531703', '46.512533');"
-158;127;Chemin des Falaises 67;Lausanne;1007;6.587796;46.534451;;"VALUE ('158','127','Chemin des Falaises 67','Lausanne', '1007', '6.587796', '46.534451');"
-159;127;Avenue de Provence 17;Lausanne;1005;6.591071;46.543262;;"VALUE ('159','127','Avenue de Provence 17','Lausanne', '1005', '6.591071', '46.543262');"
-160;128;Chemin de Pierrefleur 20;Lausanne;1004;6.516197;46.530412;;"VALUE ('160','128','Chemin de Pierrefleur 20','Lausanne', '1004', '6.516197', '46.530412');"
-161;128;Chemin de Bellerive 67;Renens VD;1020;6.584593;46.589493;;"VALUE ('161','128','Chemin de Bellerive 67','Renens VD', '1020', '6.584593', '46.589493');"
-162;129;Rue de Genève 81;Jouxtens-Mézery;1008;6.553348;46.530282;;"VALUE ('162','129','Rue de Genève 81','Jouxtens-Mézery', '1008', '6.553348', '46.530282');"
-163;130;Chemin de Montelly 75;Lausanne;1005;6.565873;46.515419;;"VALUE ('163','130','Chemin de Montelly 75','Lausanne', '1005', '6.565873', '46.515419');"
-164;131;Chemin de Montelly 6;Crissier;1023;6.502837;46.582524;;"VALUE ('164','131','Chemin de Montelly 6','Crissier', '1023', '6.502837', '46.582524');"
-165;132;Chemin des Falaises 27;Jouxtens-Mézery;1008;6.541659;46.576696;;"VALUE ('165','132','Chemin des Falaises 27','Jouxtens-Mézery', '1008', '6.541659', '46.576696');"
-166;132;Avenue de Beaulieu 114;Lausanne;1003;6.528967;46.562716;;"VALUE ('166','132','Avenue de Beaulieu 114','Lausanne', '1003', '6.528967', '46.562716');"
-167;133;Rue du Nord 104;Lausanne;1007;6.540609;46.580735;;"VALUE ('167','133','Rue du Nord 104','Lausanne', '1007', '6.540609', '46.580735');"
-168;134;Rue de Genève 57;Lausanne;1003;6.546444;46.541562;;"VALUE ('168','134','Rue de Genève 57','Lausanne', '1003', '6.546444', '46.541562');"
-169;135;Chemin de Bellerive 111;Lausanne;1005;6.57342;46.571836;;"VALUE ('169','135','Chemin de Bellerive 111','Lausanne', '1005', '6.57342', '46.571836');"
-170;136;Rue de Genève 98;Chavannes-près-Renens;1022;6.556165;46.537054;;"VALUE ('170','136','Rue de Genève 98','Chavannes-près-Renens', '1022', '6.556165', '46.537054');"
-171;137;Avenue de Morges 35;Lausanne;1007;6.514088;46.54496;;"VALUE ('171','137','Avenue de Morges 35','Lausanne', '1007', '6.514088', '46.54496');"
-172;138;Chemin de Montelly 54;Chavannes-près-Renens;1022;6.586531;46.524827;;"VALUE ('172','138','Chemin de Montelly 54','Chavannes-près-Renens', '1022', '6.586531', '46.524827');"
-173;138;Chemin de Bellerive 120;Lausanne;1005;6.531271;46.557769;;"VALUE ('173','138','Chemin de Bellerive 120','Lausanne', '1005', '6.531271', '46.557769');"
-174;139;Chemin de Pierrefleur 60;Lausanne;1007;6.530854;46.549876;;"VALUE ('174','139','Chemin de Pierrefleur 60','Lausanne', '1007', '6.530854', '46.549876');"
-175;140;Chemin de Pierrefleur 59;Chavannes-près-Renens;1022;6.521514;46.596669;;"VALUE ('175','140','Chemin de Pierrefleur 59','Chavannes-près-Renens', '1022', '6.521514', '46.596669');"
-176;140;Avenue de Sévelin 7;Crissier;1023;6.559752;46.528136;;"VALUE ('176','140','Avenue de Sévelin 7','Crissier', '1023', '6.559752', '46.528136');"
-177;141;Chemin de Maillefer 69;Lausanne;1007;6.51075;46.500818;;"VALUE ('177','141','Chemin de Maillefer 69','Lausanne', '1007', '6.51075', '46.500818');"
-178;142;Avenue de Cour 47;Jouxtens-Mézery;1008;6.536594;46.576386;;"VALUE ('178','142','Avenue de Cour 47','Jouxtens-Mézery', '1008', '6.536594', '46.576386');"
-179;142;Avenue de Sévelin 73;Chavannes-près-Renens;1022;6.536252;46.556182;;"VALUE ('179','142','Avenue de Sévelin 73','Chavannes-près-Renens', '1022', '6.536252', '46.556182');"
-180;143;Chemin de Pierrefleur 58;Chavannes-près-Renens;1022;6.527972;46.57644;;"VALUE ('180','143','Chemin de Pierrefleur 58','Chavannes-près-Renens', '1022', '6.527972', '46.57644');"
-181;144;Rue de Genève 13;Lausanne;1004;6.57949;46.53939;;"VALUE ('181','144','Rue de Genève 13','Lausanne', '1004', '6.57949', '46.53939');"
-182;145;Avenue de Provence 19;Crissier;1023;6.550912;46.519906;;"VALUE ('182','145','Avenue de Provence 19','Crissier', '1023', '6.550912', '46.519906');"
-183;146;Avenue de Sévelin 18;Lausanne;1003;6.580397;46.571359;;"VALUE ('183','146','Avenue de Sévelin 18','Lausanne', '1003', '6.580397', '46.571359');"
-184;147;Chemin de Montelly 115;Lausanne;1005;6.532797;46.551551;;"VALUE ('184','147','Chemin de Montelly 115','Lausanne', '1005', '6.532797', '46.551551');"
-185;148;Avenue d'Echallens 79;Lausanne;1005;6.529923;46.573932;;"VALUE ('185','148','Avenue d'Echallens 79','Lausanne', '1005', '6.529923', '46.573932');"
-186;149;Avenue de Cour 73;Lausanne;1007;6.581575;46.529979;;"VALUE ('186','149','Avenue de Cour 73','Lausanne', '1007', '6.581575', '46.529979');"
-187;150;Avenue d'Echallens 75;Lausanne;1004;6.589877;46.530768;;"VALUE ('187','150','Avenue d'Echallens 75','Lausanne', '1004', '6.589877', '46.530768');"
-188;151;Chemin de Montelly 61;Lausanne;1003;6.565559;46.526553;;"VALUE ('188','151','Chemin de Montelly 61','Lausanne', '1003', '6.565559', '46.526553');"
-189;152;Avenue de Cour 7;Renens VD;1020;6.517051;46.558352;;"VALUE ('189','152','Avenue de Cour 7','Renens VD', '1020', '6.517051', '46.558352');"
-190;153;Rue de Genève 106;Chavannes-près-Renens;1022;6.503157;46.568073;;"VALUE ('190','153','Rue de Genève 106','Chavannes-près-Renens', '1022', '6.503157', '46.568073');"
-191;154;Rue du Nord 3;Lausanne;1004;6.541878;46.544104;;"VALUE ('191','154','Rue du Nord 3','Lausanne', '1004', '6.541878', '46.544104');"
-192;155;Avenue d'Echallens 65;Renens VD;1020;6.592052;46.577497;;"VALUE ('192','155','Avenue d'Echallens 65','Renens VD', '1020', '6.592052', '46.577497');"
-193;156;Avenue de Cour 18;Lausanne;1003;6.556089;46.551868;;"VALUE ('193','156','Avenue de Cour 18','Lausanne', '1003', '6.556089', '46.551868');"
-194;157;Chemin de Pierrefleur 49;Lausanne;1007;6.517318;46.531375;;"VALUE ('194','157','Chemin de Pierrefleur 49','Lausanne', '1007', '6.517318', '46.531375');"
-195;158;Chemin de Pierrefleur 46;Crissier;1023;6.586765;46.567587;;"VALUE ('195','158','Chemin de Pierrefleur 46','Crissier', '1023', '6.586765', '46.567587');"
-196;159;Chemin de Montelly 62;Jouxtens-Mézery;1008;6.524652;46.519226;;"VALUE ('196','159','Chemin de Montelly 62','Jouxtens-Mézery', '1008', '6.524652', '46.519226');"
-197;160;Chemin de Maillefer 99;Renens VD;1020;6.520728;46.5289;;"VALUE ('197','160','Chemin de Maillefer 99','Renens VD', '1020', '6.520728', '46.5289');"
-198;161;Avenue de Beaulieu 45;Crissier;1023;6.593449;46.556049;;"VALUE ('198','161','Avenue de Beaulieu 45','Crissier', '1023', '6.593449', '46.556049');"
-199;162;Avenue de Morges 74;Jouxtens-Mézery;1008;6.537969;46.567662;;"VALUE ('199','162','Avenue de Morges 74','Jouxtens-Mézery', '1008', '6.537969', '46.567662');"
-200;163;Avenue de Provence 103;Crissier;1023;6.504207;46.514648;;"VALUE ('200','163','Avenue de Provence 103','Crissier', '1023', '6.504207', '46.514648');"
-201;164;Chemin de Bellerive 119;Lausanne;1004;6.525644;46.544238;;"VALUE ('201','164','Chemin de Bellerive 119','Lausanne', '1004', '6.525644', '46.544238');"
-202;165;Chemin de Pierrefleur 35;Renens VD;1020;6.569617;46.593302;;"VALUE ('202','165','Chemin de Pierrefleur 35','Renens VD', '1020', '6.569617', '46.593302');"
-203;166;Rue du Nord 7;Renens VD;1020;6.553104;46.566983;;"VALUE ('203','166','Rue du Nord 7','Renens VD', '1020', '6.553104', '46.566983');"
-204;166;Avenue de Sévelin 13;Renens VD;1020;6.571736;46.54133;;"VALUE ('204','166','Avenue de Sévelin 13','Renens VD', '1020', '6.571736', '46.54133');"
-205;167;Avenue de Sévelin 71;Lausanne;1005;6.515794;46.597791;;"VALUE ('205','167','Avenue de Sévelin 71','Lausanne', '1005', '6.515794', '46.597791');"
-206;167;Avenue de Beaulieu 84;Lausanne;1007;6.596391;46.519946;;"VALUE ('206','167','Avenue de Beaulieu 84','Lausanne', '1007', '6.596391', '46.519946');"
-207;168;Avenue de Provence 12;Lausanne;1003;6.523222;46.56523;;"VALUE ('207','168','Avenue de Provence 12','Lausanne', '1003', '6.523222', '46.56523');"
-208;169;Rue de Genève 54;Lausanne;1003;6.517579;46.588224;;"VALUE ('208','169','Rue de Genève 54','Lausanne', '1003', '6.517579', '46.588224');"
-209;170;Avenue de Provence 64;Chavannes-près-Renens;1022;6.5749;46.518631;;"VALUE ('209','170','Avenue de Provence 64','Chavannes-près-Renens', '1022', '6.5749', '46.518631');"
-210;171;Avenue de Sévelin 2;Jouxtens-Mézery;1008;6.560278;46.529839;;"VALUE ('210','171','Avenue de Sévelin 2','Jouxtens-Mézery', '1008', '6.560278', '46.529839');"
-211;172;Chemin de Maillefer 59;Crissier;1023;6.55433;46.59891;;"VALUE ('211','172','Chemin de Maillefer 59','Crissier', '1023', '6.55433', '46.59891');"
-212;173;Chemin de Pierrefleur 60;Lausanne;1005;6.580881;46.527284;;"VALUE ('212','173','Chemin de Pierrefleur 60','Lausanne', '1005', '6.580881', '46.527284');"
-213;174;Chemin des Falaises 33;Lausanne;1007;6.501408;46.57186;;"VALUE ('213','174','Chemin des Falaises 33','Lausanne', '1007', '6.501408', '46.57186');"
-214;175;Chemin de Montelly 87;Jouxtens-Mézery;1008;6.517549;46.575728;;"VALUE ('214','175','Chemin de Montelly 87','Jouxtens-Mézery', '1008', '6.517549', '46.575728');"
-215;176;Avenue d'Echallens 66;Chavannes-près-Renens;1022;6.540083;46.532793;;"VALUE ('215','176','Avenue d'Echallens 66','Chavannes-près-Renens', '1022', '6.540083', '46.532793');"
-216;177;Avenue de Beaulieu 42;Lausanne;1005;6.500683;46.593583;;"VALUE ('216','177','Avenue de Beaulieu 42','Lausanne', '1005', '6.500683', '46.593583');"
-217;177;Rue du Nord 58;Chavannes-près-Renens;1022;6.595403;46.575376;;"VALUE ('217','177','Rue du Nord 58','Chavannes-près-Renens', '1022', '6.595403', '46.575376');"
-218;178;Chemin de Maillefer 84;Lausanne;1003;6.52363;46.535955;;"VALUE ('218','178','Chemin de Maillefer 84','Lausanne', '1003', '6.52363', '46.535955');"
-219;179;Chemin de Maillefer 21;Lausanne;1007;6.550252;46.540542;;"VALUE ('219','179','Chemin de Maillefer 21','Lausanne', '1007', '6.550252', '46.540542');"
-220;180;Avenue de Cour 16;Jouxtens-Mézery;1008;6.594064;46.563871;;"VALUE ('220','180','Avenue de Cour 16','Jouxtens-Mézery', '1008', '6.594064', '46.563871');"
-221;181;Rue du Nord 18;Renens VD;1020;6.545498;46.547818;;"VALUE ('221','181','Rue du Nord 18','Renens VD', '1020', '6.545498', '46.547818');"
-222;182;Avenue d'Echallens 90;Crissier;1023;6.547083;46.554923;;"VALUE ('222','182','Avenue d'Echallens 90','Crissier', '1023', '6.547083', '46.554923');"
-223;183;Avenue de Provence 32;Renens VD;1020;6.559581;46.568034;;"VALUE ('223','183','Avenue de Provence 32','Renens VD', '1020', '6.559581', '46.568034');"
-224;184;Chemin de Pierrefleur 91;Lausanne;1007;6.591724;46.536178;;"VALUE ('224','184','Chemin de Pierrefleur 91','Lausanne', '1007', '6.591724', '46.536178');"
-225;185;Chemin de Montelly 69;Renens VD;1020;6.532812;46.514985;;"VALUE ('225','185','Chemin de Montelly 69','Renens VD', '1020', '6.532812', '46.514985');"
-226;185;Avenue de Morges 88;Lausanne;1007;6.558315;46.52054;;"VALUE ('226','185','Avenue de Morges 88','Lausanne', '1007', '6.558315', '46.52054');"
-227;186;Avenue de Provence 8;Lausanne;1007;6.551325;46.545343;;"VALUE ('227','186','Avenue de Provence 8','Lausanne', '1007', '6.551325', '46.545343');"
-228;186;Chemin de Montelly 8;Lausanne;1007;6.567277;46.55588;;"VALUE ('228','186','Chemin de Montelly 8','Lausanne', '1007', '6.567277', '46.55588');"
-229;187;Avenue d'Echallens 33;Lausanne;1003;6.57458;46.581645;;"VALUE ('229','187','Avenue d'Echallens 33','Lausanne', '1003', '6.57458', '46.581645');"
-230;188;Avenue d'Echallens 45;Lausanne;1003;6.554116;46.570038;;"VALUE ('230','188','Avenue d'Echallens 45','Lausanne', '1003', '6.554116', '46.570038');"
-231;189;Avenue de Beaulieu 5;Lausanne;1004;6.517998;46.528709;;"VALUE ('231','189','Avenue de Beaulieu 5','Lausanne', '1004', '6.517998', '46.528709');"
-232;189;Avenue de Provence 83;Lausanne;1005;6.564588;46.597833;;"VALUE ('232','189','Avenue de Provence 83','Lausanne', '1005', '6.564588', '46.597833');"
-233;190;Avenue de Beaulieu 112;Chavannes-près-Renens;1022;6.53775;46.591712;;"VALUE ('233','190','Avenue de Beaulieu 112','Chavannes-près-Renens', '1022', '6.53775', '46.591712');"
-234;191;Chemin des Falaises 111;Lausanne;1005;6.517847;46.534777;;"VALUE ('234','191','Chemin des Falaises 111','Lausanne', '1005', '6.517847', '46.534777');"
-235;191;Chemin de Pierrefleur 17;Chavannes-près-Renens;1022;6.522269;46.572786;;"VALUE ('235','191','Chemin de Pierrefleur 17','Chavannes-près-Renens', '1022', '6.522269', '46.572786');"
-236;192;Chemin de Maillefer 60;Lausanne;1003;6.554445;46.56735;;"VALUE ('236','192','Chemin de Maillefer 60','Lausanne', '1003', '6.554445', '46.56735');"
-237;192;Rue du Nord 32;Chavannes-près-Renens;1022;6.515512;46.546063;;"VALUE ('237','192','Rue du Nord 32','Chavannes-près-Renens', '1022', '6.515512', '46.546063');"
-238;193;Avenue de Sévelin 104;Lausanne;1004;6.561492;46.56602;;"VALUE ('238','193','Avenue de Sévelin 104','Lausanne', '1004', '6.561492', '46.56602');"
-239;193;Rue du Nord 27;Lausanne;1003;6.559394;46.506729;;"VALUE ('239','193','Rue du Nord 27','Lausanne', '1003', '6.559394', '46.506729');"
-240;194;Rue du Nord 95;Lausanne;1003;6.543896;46.504424;;"VALUE ('240','194','Rue du Nord 95','Lausanne', '1003', '6.543896', '46.504424');"
-241;195;Rue de Genève 65;Lausanne;1003;6.523416;46.599348;;"VALUE ('241','195','Rue de Genève 65','Lausanne', '1003', '6.523416', '46.599348');"
-242;196;Chemin de Montelly 77;Crissier;1023;6.581838;46.577254;;"VALUE ('242','196','Chemin de Montelly 77','Crissier', '1023', '6.581838', '46.577254');"
-243;197;Chemin des Falaises 67;Lausanne;1005;6.53005;46.522104;;"VALUE ('243','197','Chemin des Falaises 67','Lausanne', '1005', '6.53005', '46.522104');"
-244;197;Chemin de Pierrefleur 76;Lausanne;1003;6.591158;46.587971;;"VALUE ('244','197','Chemin de Pierrefleur 76','Lausanne', '1003', '6.591158', '46.587971');"
-245;198;Chemin de Pierrefleur 64;Chavannes-près-Renens;1022;6.534441;46.504688;;"VALUE ('245','198','Chemin de Pierrefleur 64','Chavannes-près-Renens', '1022', '6.534441', '46.504688');"
-246;199;Avenue de Provence 68;Chavannes-près-Renens;1022;6.541632;46.531873;;"VALUE ('246','199','Avenue de Provence 68','Chavannes-près-Renens', '1022', '6.541632', '46.531873');"
-247;200;Rue de Genève 97;Chavannes-près-Renens;1022;6.524097;46.553793;;"VALUE ('247','200','Rue de Genève 97','Chavannes-près-Renens', '1022', '6.524097', '46.553793');"
-248;200;Chemin de Maillefer 110;Renens VD;1020;6.580578;46.570758;;"VALUE ('248','200','Chemin de Maillefer 110','Renens VD', '1020', '6.580578', '46.570758');"
-249;201;Avenue d'Echallens 72;Chavannes-près-Renens;1022;6.538842;46.552999;;"VALUE ('249','201','Avenue d'Echallens 72','Chavannes-près-Renens', '1022', '6.538842', '46.552999');"
-250;202;Chemin des Falaises 11;Crissier;1023;6.584713;46.592223;;"VALUE ('250','202','Chemin des Falaises 11','Crissier', '1023', '6.584713', '46.592223');"
-251;203;Avenue de Sévelin 35;Renens VD;1020;6.560497;46.537717;;"VALUE ('251','203','Avenue de Sévelin 35','Renens VD', '1020', '6.560497', '46.537717');"
-252;203;Avenue de Morges 25;Lausanne;1003;6.558758;46.580465;;"VALUE ('252','203','Avenue de Morges 25','Lausanne', '1003', '6.558758', '46.580465');"
-253;204;Avenue de Beaulieu 27;Renens VD;1020;6.533296;46.586947;;"VALUE ('253','204','Avenue de Beaulieu 27','Renens VD', '1020', '6.533296', '46.586947');"
-254;205;Rue du Nord 120;Lausanne;1003;6.574148;46.519002;;"VALUE ('254','205','Rue du Nord 120','Lausanne', '1003', '6.574148', '46.519002');"
-255;206;Rue du Nord 90;Lausanne;1007;6.520451;46.56044;;"VALUE ('255','206','Rue du Nord 90','Lausanne', '1007', '6.520451', '46.56044');"
-256;207;Avenue de Provence 37;Crissier;1023;6.553365;46.538066;;"VALUE ('256','207','Avenue de Provence 37','Crissier', '1023', '6.553365', '46.538066');"
-257;208;Chemin de Bellerive 66;Jouxtens-Mézery;1008;6.5466;46.588281;;"VALUE ('257','208','Chemin de Bellerive 66','Jouxtens-Mézery', '1008', '6.5466', '46.588281');"
-258;209;Avenue de Provence 108;Lausanne;1007;6.520313;46.532023;;"VALUE ('258','209','Avenue de Provence 108','Lausanne', '1007', '6.520313', '46.532023');"
-259;210;Chemin de Montelly 111;Lausanne;1003;6.514592;46.522127;;"VALUE ('259','210','Chemin de Montelly 111','Lausanne', '1003', '6.514592', '46.522127');"
-260;211;Chemin de Maillefer 20;Chavannes-près-Renens;1022;6.523002;46.519619;;"VALUE ('260','211','Chemin de Maillefer 20','Chavannes-près-Renens', '1022', '6.523002', '46.519619');"
-261;212;Avenue de Beaulieu 71;Renens VD;1020;6.568485;46.565461;;"VALUE ('261','212','Avenue de Beaulieu 71','Renens VD', '1020', '6.568485', '46.565461');"
-262;213;Avenue de Cour 83;Lausanne;1007;6.546083;46.573959;;"VALUE ('262','213','Avenue de Cour 83','Lausanne', '1007', '6.546083', '46.573959');"
-263;214;Rue de Genève 18;Crissier;1023;6.548832;46.572031;;"VALUE ('263','214','Rue de Genève 18','Crissier', '1023', '6.548832', '46.572031');"
-264;215;Chemin de Pierrefleur 5;Lausanne;1003;6.507433;46.583907;;"VALUE ('264','215','Chemin de Pierrefleur 5','Lausanne', '1003', '6.507433', '46.583907');"
-265;216;Avenue de Provence 1;Lausanne;1003;6.584254;46.541239;;"VALUE ('265','216','Avenue de Provence 1','Lausanne', '1003', '6.584254', '46.541239');"
-266;217;Avenue de Sévelin 28;Lausanne;1005;6.53732;46.550573;;"VALUE ('266','217','Avenue de Sévelin 28','Lausanne', '1005', '6.53732', '46.550573');"
-267;217;Chemin des Falaises 63;Lausanne;1007;6.553221;46.501573;;"VALUE ('267','217','Chemin des Falaises 63','Lausanne', '1007', '6.553221', '46.501573');"
-268;218;Chemin de Pierrefleur 93;Lausanne;1003;6.597748;46.527474;;"VALUE ('268','218','Chemin de Pierrefleur 93','Lausanne', '1003', '6.597748', '46.527474');"
-269;219;Avenue de Provence 117;Chavannes-près-Renens;1022;6.591805;46.517927;;"VALUE ('269','219','Avenue de Provence 117','Chavannes-près-Renens', '1022', '6.591805', '46.517927');"
-270;219;Rue du Nord 25;Lausanne;1005;6.525242;46.561978;;"VALUE ('270','219','Rue du Nord 25','Lausanne', '1005', '6.525242', '46.561978');"
-271;220;Avenue de Morges 48;Chavannes-près-Renens;1022;6.5459;46.59593;;"VALUE ('271','220','Avenue de Morges 48','Chavannes-près-Renens', '1022', '6.5459', '46.59593');"
+adresse_id;rue;ville;npa;longitude;latitude
+1;Avenue d'Echallens 25;Lausanne;1005;6.550824;46.592187
+2;Avenue de Morges 36;Lausanne;1005;6.585441;46.577268
+3;Avenue de Sévelin 37;Jouxtens-Mézery;1008;6.583748;46.572605
+4;Rue de Genève 58;Lausanne;1007;6.534512;46.553858
+5;Avenue de Beaulieu 120;Chavannes-près-Renens;1022;6.518865;46.532178
+6;Rue du Nord 110;Chavannes-près-Renens;1022;6.504365;46.577554
+7;Avenue d'Echallens 85;Chavannes-près-Renens;1022;6.565202;46.579239
+8;Rue de Genève 65;Lausanne;1003;6.533199;46.596535
+9;Avenue de Beaulieu 13;Lausanne;1004;6.545693;46.552595
+10;Chemin des Falaises 20;Chavannes-près-Renens;1022;6.578153;46.507483
+11;Chemin des Falaises 11;Chavannes-près-Renens;1022;6.585234;46.585177
+12;Chemin de Bellerive 81;Chavannes-près-Renens;1022;6.57594;46.571872
+13;Chemin de Montelly 9;Lausanne;1003;6.56844;46.523477
+14;Avenue de Cour 12;Renens VD;1020;6.509844;46.543397
+15;Avenue de Beaulieu 22;Lausanne;1004;6.590342;46.5694
+16;Chemin de Maillefer 46;Lausanne;1003;6.514557;46.537484
+17;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.516998;46.579252
+18;Chemin de Montelly 88;Chavannes-près-Renens;1022;6.591283;46.524083
+19;Rue du Nord 60;Lausanne;1005;6.545957;46.56379
+20;Chemin de Maillefer 87;Lausanne;1007;6.507386;46.55466
+21;Chemin des Falaises 55;Jouxtens-Mézery;1008;6.545684;46.569031
+22;Avenue de Beaulieu 14;Chavannes-près-Renens;1022;6.557192;46.523721
+23;Avenue de Sévelin 107;Jouxtens-Mézery;1008;6.527448;46.565823
+24;Chemin de Montelly 96;Lausanne;1003;6.590416;46.549673
+25;Chemin de Montelly 103;Renens VD;1020;6.563662;46.535232
+26;Chemin des Falaises 13;Lausanne;1005;6.564634;46.59034
+27;Avenue de Sévelin 75;Lausanne;1007;6.513141;46.536486
+28;Avenue de Cour 54;Crissier;1023;6.513216;46.517564
+29;Chemin de Pierrefleur 65;Crissier;1023;6.583047;46.591349
+30;Avenue de Provence 38;Lausanne;1007;6.533872;46.574656
+31;Rue de Genève 97;Lausanne;1004;6.586014;46.59665
+32;Avenue de Provence 72;Chavannes-près-Renens;1022;6.579068;46.536578
+33;Avenue de Beaulieu 48;Lausanne;1004;6.567234;46.567283
+34;Chemin des Falaises 48;Chavannes-près-Renens;1022;6.523382;46.510835
+35;Chemin de Montelly 29;Crissier;1023;6.56354;46.564765
+36;Avenue de Cour 39;Lausanne;1007;6.511668;46.564924
+37;Chemin de Maillefer 64;Lausanne;1003;6.52348;46.511612
+38;Avenue d'Echallens 59;Lausanne;1005;6.594938;46.537101
+39;Chemin de Montelly 96;Chavannes-près-Renens;1022;6.588541;46.57266
+40;Chemin de Montelly 53;Lausanne;1007;6.527974;46.593905
+41;Avenue de Beaulieu 57;Renens VD;1020;6.585545;46.595056
+42;Chemin de Pierrefleur 116;Crissier;1023;6.535867;46.597784
+43;Chemin de Maillefer 25;Chavannes-près-Renens;1022;6.594901;46.596821
+44;Chemin des Falaises 28;Lausanne;1004;6.559715;46.56417
+45;Rue du Nord 17;Crissier;1023;6.520521;46.578698
+46;Chemin de Montelly 28;Renens VD;1020;6.5233;46.581305
+47;Chemin de Maillefer 110;Lausanne;1003;6.598753;46.598403
+48;Avenue de Morges 85;Lausanne;1005;6.51318;46.586645
+49;Chemin de Montelly 42;Renens VD;1020;6.526537;46.501578
+50;Chemin de Pierrefleur 15;Chavannes-près-Renens;1022;6.547625;46.574567
+51;Chemin de Pierrefleur 76;Crissier;1023;6.550384;46.510905
+52;Avenue de Cour 101;Lausanne;1003;6.56589;46.590875
+53;Avenue de Sévelin 62;Lausanne;1003;6.542627;46.58473
+54;Avenue de Morges 116;Lausanne;1007;6.56083;46.508079
+55;Rue de Genève 36;Lausanne;1004;6.558536;46.562432
+56;Chemin de Montelly 68;Chavannes-près-Renens;1022;6.550555;46.52949
+57;Chemin des Falaises 84;Lausanne;1004;6.555134;46.587771
+58;Avenue de Beaulieu 114;Chavannes-près-Renens;1022;6.533893;46.522849
+59;Avenue de Cour 13;Chavannes-près-Renens;1022;6.531252;46.531255
+60;Chemin des Falaises 119;Lausanne;1005;6.509122;46.547427
+61;Avenue de Morges 96;Chavannes-près-Renens;1022;6.581177;46.57388
+62;Chemin de Montelly 72;Lausanne;1003;6.567001;46.556168
+63;Avenue de Cour 7;Chavannes-près-Renens;1022;6.560041;46.59684
+64;Rue de Genève 85;Renens VD;1020;6.584727;46.548219
+65;Avenue de Morges 98;Crissier;1023;6.522616;46.527857
+66;Chemin de Montelly 119;Lausanne;1003;6.569347;46.565783
+67;Avenue de Cour 98;Jouxtens-Mézery;1008;6.533982;46.530898
+68;Rue de Genève 112;Lausanne;1003;6.565734;46.514325
+69;Avenue de Morges 96;Lausanne;1003;6.537619;46.553048
+70;Chemin de Bellerive 21;Lausanne;1007;6.57216;46.537005
+71;Avenue de Sévelin 20;Lausanne;1004;6.561784;46.515741
+72;Avenue de Beaulieu 85;Jouxtens-Mézery;1008;6.560708;46.542401
+73;Avenue de Provence 66;Renens VD;1020;6.542991;46.511382
+74;Chemin de Pierrefleur 86;Lausanne;1007;6.522052;46.530842
+75;Avenue de Sévelin 27;Lausanne;1003;6.521123;46.530142
+76;Chemin de Maillefer 42;Jouxtens-Mézery;1008;6.549739;46.511998
+77;Rue de Genève 17;Chavannes-près-Renens;1022;6.570367;46.538021
+78;Avenue de Morges 51;Crissier;1023;6.50423;46.586176
+79;Chemin de Bellerive 74;Lausanne;1004;6.540442;46.542928
+80;Chemin de Maillefer 15;Chavannes-près-Renens;1022;6.59662;46.540503
+81;Avenue de Cour 118;Lausanne;1007;6.543671;46.536185
+82;Rue du Nord 56;Lausanne;1004;6.552396;46.558887
+83;Avenue de Cour 44;Jouxtens-Mézery;1008;6.577912;46.522157
+84;Chemin de Pierrefleur 66;Lausanne;1004;6.577623;46.51939
+85;Avenue de Cour 105;Crissier;1023;6.514769;46.564544
+86;Rue du Nord 23;Jouxtens-Mézery;1008;6.576022;46.56024
+87;Rue de Genève 99;Lausanne;1004;6.546395;46.562795
+88;Chemin des Falaises 119;Lausanne;1007;6.564299;46.588205
+89;Chemin des Falaises 41;Crissier;1023;6.506829;46.515096
+90;Avenue de Provence 36;Jouxtens-Mézery;1008;6.535194;46.559142
+91;Avenue de Beaulieu 5;Lausanne;1007;6.58317;46.505689
+92;Chemin des Falaises 111;Lausanne;1004;6.50903;46.597737
+93;Avenue de Beaulieu 75;Chavannes-près-Renens;1022;6.579182;46.555432
+94;Avenue de Provence 74;Lausanne;1007;6.532153;46.565184
+95;Avenue de Sévelin 58;Lausanne;1005;6.589913;46.51035
+96;Chemin de Pierrefleur 83;Lausanne;1004;6.524774;46.517256
+97;Chemin de Pierrefleur 67;Lausanne;1007;6.53639;46.560981
+98;Avenue d'Echallens 100;Chavannes-près-Renens;1022;6.559789;46.533837
+99;Avenue de Morges 43;Crissier;1023;6.567838;46.509451
+100;Chemin de Bellerive 11;Lausanne;1005;6.514143;46.558274
+101;Rue de Genève 77;Chavannes-près-Renens;1022;6.508472;46.570883
+102;Rue de Genève 86;Crissier;1023;6.594711;46.570283
+103;Chemin des Falaises 86;Lausanne;1004;6.536183;46.542341
+104;Rue du Nord 44;Lausanne;1005;6.548627;46.594767
+105;Rue de Genève 10;Lausanne;1005;6.578812;46.529579
+106;Chemin des Falaises 44;Lausanne;1003;6.561803;46.587639
+107;Rue de Genève 24;Lausanne;1005;6.57711;46.583135
+108;Avenue de Cour 57;Lausanne;1005;6.53643;46.504369
+109;Chemin de Montelly 37;Lausanne;1007;6.57838;46.575239
+110;Chemin de Maillefer 104;Renens VD;1020;6.590397;46.578437
+111;Chemin de Bellerive 87;Renens VD;1020;6.598444;46.594713
+112;Avenue de Provence 49;Jouxtens-Mézery;1008;6.541866;46.550291
+113;Avenue de Provence 78;Renens VD;1020;6.525;46.51384
+114;Chemin de Bellerive 71;Lausanne;1007;6.57114;46.593429
+115;Chemin de Maillefer 11;Lausanne;1004;6.527279;46.576312
+116;Avenue d'Echallens 12;Lausanne;1005;6.522204;46.594641
+117;Avenue de Sévelin 54;Crissier;1023;6.550201;46.505326
+118;Chemin de Bellerive 29;Lausanne;1004;6.593083;46.502819
+119;Avenue de Provence 19;Crissier;1023;6.528688;46.51376
+120;Avenue de Provence 91;Lausanne;1005;6.561535;46.546911
+121;Chemin de Maillefer 28;Lausanne;1003;6.55488;46.583496
+122;Avenue de Morges 100;Chavannes-près-Renens;1022;6.530115;46.52881
+123;Chemin des Falaises 102;Chavannes-près-Renens;1022;6.506281;46.562281
+124;Chemin de Montelly 69;Lausanne;1007;6.551538;46.501644
+125;Chemin de Maillefer 55;Lausanne;1005;6.535282;46.500156
+126;Rue de Genève 86;Chavannes-près-Renens;1022;6.552348;46.566821
+127;Avenue d'Echallens 112;Lausanne;1003;6.563567;46.547014
+128;Avenue de Cour 3;Jouxtens-Mézery;1008;6.506756;46.535709
+129;Avenue de Provence 75;Lausanne;1004;6.533252;46.573519
+130;Chemin de Bellerive 70;Lausanne;1003;6.56428;46.533855
+131;Avenue de Cour 62;Lausanne;1007;6.58115;46.563174
+132;Avenue de Sévelin 38;Lausanne;1007;6.579111;46.520159
+133;Chemin de Bellerive 120;Lausanne;1003;6.539822;46.531008
+134;Chemin de Maillefer 5;Lausanne;1007;6.51911;46.575329
+135;Chemin des Falaises 43;Lausanne;1003;6.579934;46.527322
+136;Avenue de Cour 57;Chavannes-près-Renens;1022;6.538664;46.589464
+137;Avenue de Cour 64;Lausanne;1007;6.579729;46.536735
+138;Avenue de Cour 55;Lausanne;1004;6.560245;46.507893
+139;Chemin de Bellerive 14;Jouxtens-Mézery;1008;6.566092;46.508007
+140;Rue de Genève 89;Chavannes-près-Renens;1022;6.544713;46.544391
+141;Chemin de Montelly 56;Crissier;1023;6.598003;46.527456
+142;Chemin des Falaises 82;Lausanne;1004;6.551309;46.540621
+143;Avenue de Sévelin 19;Lausanne;1005;6.567809;46.584867
+144;Avenue de Morges 31;Lausanne;1005;6.536633;46.577852
+145;Chemin de Montelly 20;Lausanne;1003;6.594882;46.567906
+146;Chemin de Montelly 18;Lausanne;1004;6.539803;46.552946
+147;Avenue de Morges 4;Renens VD;1020;6.549904;46.573567
+148;Chemin de Maillefer 100;Lausanne;1004;6.544627;46.526029
+149;Avenue de Cour 118;Jouxtens-Mézery;1008;6.520018;46.599863
+150;Avenue de Beaulieu 23;Lausanne;1004;6.544511;46.589868
+151;Avenue de Provence 88;Lausanne;1004;6.598657;46.596756
+152;Chemin de Pierrefleur 70;Lausanne;1004;6.529996;46.529036
+153;Avenue de Provence 47;Lausanne;1005;6.512136;46.550876
+154;Avenue de Provence 18;Renens VD;1020;6.549402;46.523674
+155;Avenue de Beaulieu 103;Crissier;1023;6.512977;46.598301
+156;Chemin de Maillefer 51;Lausanne;1004;6.571887;46.59996
+157;Chemin de Montelly 10;Chavannes-près-Renens;1022;6.531703;46.512533
+158;Chemin des Falaises 67;Lausanne;1007;6.587796;46.534451
+159;Avenue de Provence 17;Lausanne;1005;6.591071;46.543262
+160;Chemin de Pierrefleur 20;Lausanne;1004;6.516197;46.530412
+161;Chemin de Bellerive 67;Renens VD;1020;6.584593;46.589493
+162;Rue de Genève 81;Jouxtens-Mézery;1008;6.553348;46.530282
+163;Chemin de Montelly 75;Lausanne;1005;6.565873;46.515419
+164;Chemin de Montelly 6;Crissier;1023;6.502837;46.582524
+165;Chemin des Falaises 27;Jouxtens-Mézery;1008;6.541659;46.576696
+166;Avenue de Beaulieu 114;Lausanne;1003;6.528967;46.562716
+167;Rue du Nord 104;Lausanne;1007;6.540609;46.580735
+168;Rue de Genève 57;Lausanne;1003;6.546444;46.541562
+169;Chemin de Bellerive 111;Lausanne;1005;6.57342;46.571836
+170;Rue de Genève 98;Chavannes-près-Renens;1022;6.556165;46.537054
+171;Avenue de Morges 35;Lausanne;1007;6.514088;46.54496
+172;Chemin de Montelly 54;Chavannes-près-Renens;1022;6.586531;46.524827
+173;Chemin de Bellerive 120;Lausanne;1005;6.531271;46.557769
+174;Chemin de Pierrefleur 60;Lausanne;1007;6.530854;46.549876
+175;Chemin de Pierrefleur 59;Chavannes-près-Renens;1022;6.521514;46.596669
+176;Avenue de Sévelin 7;Crissier;1023;6.559752;46.528136
+177;Chemin de Maillefer 69;Lausanne;1007;6.51075;46.500818
+178;Avenue de Cour 47;Jouxtens-Mézery;1008;6.536594;46.576386
+179;Avenue de Sévelin 73;Chavannes-près-Renens;1022;6.536252;46.556182
+180;Chemin de Pierrefleur 58;Chavannes-près-Renens;1022;6.527972;46.57644
+181;Rue de Genève 13;Lausanne;1004;6.57949;46.53939
+182;Avenue de Provence 19;Crissier;1023;6.550912;46.519906
+183;Avenue de Sévelin 18;Lausanne;1003;6.580397;46.571359
+184;Chemin de Montelly 115;Lausanne;1005;6.532797;46.551551
+185;Avenue d'Echallens 79;Lausanne;1005;6.529923;46.573932
+186;Avenue de Cour 73;Lausanne;1007;6.581575;46.529979
+187;Avenue d'Echallens 75;Lausanne;1004;6.589877;46.530768
+188;Chemin de Montelly 61;Lausanne;1003;6.565559;46.526553
+189;Avenue de Cour 7;Renens VD;1020;6.517051;46.558352
+190;Rue de Genève 106;Chavannes-près-Renens;1022;6.503157;46.568073
+191;Rue du Nord 3;Lausanne;1004;6.541878;46.544104
+192;Avenue d'Echallens 65;Renens VD;1020;6.592052;46.577497
+193;Avenue de Cour 18;Lausanne;1003;6.556089;46.551868
+194;Chemin de Pierrefleur 49;Lausanne;1007;6.517318;46.531375
+195;Chemin de Pierrefleur 46;Crissier;1023;6.586765;46.567587
+196;Chemin de Montelly 62;Jouxtens-Mézery;1008;6.524652;46.519226
+197;Chemin de Maillefer 99;Renens VD;1020;6.520728;46.5289
+198;Avenue de Beaulieu 45;Crissier;1023;6.593449;46.556049
+199;Avenue de Morges 74;Jouxtens-Mézery;1008;6.537969;46.567662
+200;Avenue de Provence 103;Crissier;1023;6.504207;46.514648
+201;Chemin de Bellerive 119;Lausanne;1004;6.525644;46.544238
+202;Chemin de Pierrefleur 35;Renens VD;1020;6.569617;46.593302
+203;Rue du Nord 7;Renens VD;1020;6.553104;46.566983
+204;Avenue de Sévelin 13;Renens VD;1020;6.571736;46.54133
+205;Avenue de Sévelin 71;Lausanne;1005;6.515794;46.597791
+206;Avenue de Beaulieu 84;Lausanne;1007;6.596391;46.519946
+207;Avenue de Provence 12;Lausanne;1003;6.523222;46.56523
+208;Rue de Genève 54;Lausanne;1003;6.517579;46.588224
+209;Avenue de Provence 64;Chavannes-près-Renens;1022;6.5749;46.518631
+210;Avenue de Sévelin 2;Jouxtens-Mézery;1008;6.560278;46.529839
+211;Chemin de Maillefer 59;Crissier;1023;6.55433;46.59891
+212;Chemin de Pierrefleur 60;Lausanne;1005;6.580881;46.527284
+213;Chemin des Falaises 33;Lausanne;1007;6.501408;46.57186
+214;Chemin de Montelly 87;Jouxtens-Mézery;1008;6.517549;46.575728
+215;Avenue d'Echallens 66;Chavannes-près-Renens;1022;6.540083;46.532793
+216;Avenue de Beaulieu 42;Lausanne;1005;6.500683;46.593583
+217;Rue du Nord 58;Chavannes-près-Renens;1022;6.595403;46.575376
+218;Chemin de Maillefer 84;Lausanne;1003;6.52363;46.535955
+219;Chemin de Maillefer 21;Lausanne;1007;6.550252;46.540542
+220;Avenue de Cour 16;Jouxtens-Mézery;1008;6.594064;46.563871
+221;Rue du Nord 18;Renens VD;1020;6.545498;46.547818
+222;Avenue d'Echallens 90;Crissier;1023;6.547083;46.554923
+223;Avenue de Provence 32;Renens VD;1020;6.559581;46.568034
+224;Chemin de Pierrefleur 91;Lausanne;1007;6.591724;46.536178
+225;Chemin de Montelly 69;Renens VD;1020;6.532812;46.514985
+226;Avenue de Morges 88;Lausanne;1007;6.558315;46.52054
+227;Avenue de Provence 8;Lausanne;1007;6.551325;46.545343
+228;Chemin de Montelly 8;Lausanne;1007;6.567277;46.55588
+229;Avenue d'Echallens 33;Lausanne;1003;6.57458;46.581645
+230;Avenue d'Echallens 45;Lausanne;1003;6.554116;46.570038
+231;Avenue de Beaulieu 5;Lausanne;1004;6.517998;46.528709
+232;Avenue de Provence 83;Lausanne;1005;6.564588;46.597833
+233;Avenue de Beaulieu 112;Chavannes-près-Renens;1022;6.53775;46.591712
+234;Chemin des Falaises 111;Lausanne;1005;6.517847;46.534777
+235;Chemin de Pierrefleur 17;Chavannes-près-Renens;1022;6.522269;46.572786
+236;Chemin de Maillefer 60;Lausanne;1003;6.554445;46.56735
+237;Rue du Nord 32;Chavannes-près-Renens;1022;6.515512;46.546063
+238;Avenue de Sévelin 104;Lausanne;1004;6.561492;46.56602
+239;Rue du Nord 27;Lausanne;1003;6.559394;46.506729
+240;Rue du Nord 95;Lausanne;1003;6.543896;46.504424
+241;Rue de Genève 65;Lausanne;1003;6.523416;46.599348
+242;Chemin de Montelly 77;Crissier;1023;6.581838;46.577254
+243;Chemin des Falaises 67;Lausanne;1005;6.53005;46.522104
+244;Chemin de Pierrefleur 76;Lausanne;1003;6.591158;46.587971
+245;Chemin de Pierrefleur 64;Chavannes-près-Renens;1022;6.534441;46.504688
+246;Avenue de Provence 68;Chavannes-près-Renens;1022;6.541632;46.531873
+247;Rue de Genève 97;Chavannes-près-Renens;1022;6.524097;46.553793
+248;Chemin de Maillefer 110;Renens VD;1020;6.580578;46.570758
+249;Avenue d'Echallens 72;Chavannes-près-Renens;1022;6.538842;46.552999
+250;Chemin des Falaises 11;Crissier;1023;6.584713;46.592223
+251;Avenue de Sévelin 35;Renens VD;1020;6.560497;46.537717
+252;Avenue de Morges 25;Lausanne;1003;6.558758;46.580465
+253;Avenue de Beaulieu 27;Renens VD;1020;6.533296;46.586947
+254;Rue du Nord 120;Lausanne;1003;6.574148;46.519002
+255;Rue du Nord 90;Lausanne;1007;6.520451;46.56044
+256;Avenue de Provence 37;Crissier;1023;6.553365;46.538066
+257;Chemin de Bellerive 66;Jouxtens-Mézery;1008;6.5466;46.588281
+258;Avenue de Provence 108;Lausanne;1007;6.520313;46.532023
+259;Chemin de Montelly 111;Lausanne;1003;6.514592;46.522127
+260;Chemin de Maillefer 20;Chavannes-près-Renens;1022;6.523002;46.519619
+261;Avenue de Beaulieu 71;Renens VD;1020;6.568485;46.565461
+262;Avenue de Cour 83;Lausanne;1007;6.546083;46.573959
+263;Rue de Genève 18;Crissier;1023;6.548832;46.572031
+264;Chemin de Pierrefleur 5;Lausanne;1003;6.507433;46.583907
+265;Avenue de Provence 1;Lausanne;1003;6.584254;46.541239
+266;Avenue de Sévelin 28;Lausanne;1005;6.53732;46.550573
+267;Chemin des Falaises 63;Lausanne;1007;6.553221;46.501573
+268;Chemin de Pierrefleur 93;Lausanne;1003;6.597748;46.527474
+269;Avenue de Provence 117;Chavannes-près-Renens;1022;6.591805;46.517927
+270;Rue du Nord 25;Lausanne;1005;6.525242;46.561978
+271;Avenue de Morges 48;Chavannes-près-Renens;1022;6.5459;46.59593

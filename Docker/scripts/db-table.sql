@@ -21,7 +21,7 @@ CREATE TABLE t_article(
    prix_ttc DECIMAL(19,4) NOT NULL,
    tva DECIMAL(15,2) NOT NULL,
    type VARCHAR(15),
-   parent_fk INT NOT NULL,
+   parent_fk INT NULL,
    PRIMARY KEY(article_id),
    FOREIGN KEY(parent_fk) REFERENCES t_article(article_id)
 );
@@ -30,18 +30,18 @@ CREATE TABLE t_client(
    client_id INT AUTO_INCREMENT,
    nom VARCHAR(50) NOT NULL,
    prenom VARCHAR(50) NOT NULL,
-   mail VARCHAR(50) NOT NULL,
+   mail VARCHAR(150) NOT NULL,
    tel VARCHAR(20) NOT NULL,
    PRIMARY KEY(client_id)
 );
 
 CREATE TABLE t_adresse(
    adresse_id INT AUTO_INCREMENT,
-   rue VARCHAR(150) NOT NULL,
-   ville VARCHAR(50) NOT NULL,
-   npa SMALLINT NOT NULL,
-   longitude DECIMAL(15,15),
-   latitude DECIMAL(15,15),
+   rue VARCHAR(250) NOT NULL,
+   ville VARCHAR(150) NOT NULL,
+   npa VARCHAR (10) NOT NULL,
+   longitude VARCHAR (10),
+   latitude VARCHAR (10),
    PRIMARY KEY(adresse_id)
 );
 
@@ -49,7 +49,7 @@ CREATE TABLE t_livraison(
    livraison_id INT AUTO_INCREMENT,
    depart DATETIME,
    arrive DATETIME,
-   distance DECIMAL(15,2),
+   temps DECIMAL(15,2),
    statut VARCHAR(15),
    livreur_fk INT,
    PRIMARY KEY(livraison_id),
