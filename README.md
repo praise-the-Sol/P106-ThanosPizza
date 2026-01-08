@@ -14,7 +14,7 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 | `/Docker/scripts/load-data.sql` | charge les données | OK |
 | `/Docker/scripts/requetes.sql` | les requêtes 1 à 10 | OK |
 | `/Docker/scripts/roles-users.sql` | création des rôles, des users et attribution des rôles | OK |
-| `/Docker/scripts/save-rest.sql` | commandes de backup et de resotre | en cours |
+| `/Docker/scripts/save-rest.sql` | commandes de backup et de restore | en cours |
 | `/Docker/scripts/transactions.sql` | scénario de transaction | OK |
 
 ### Données
@@ -30,6 +30,7 @@ Emplacement : `/Docker/scripts/DATA/`
 - `t_livreur.csv`
 - `t_paiement.csv`
 -  `vivre.csv`
+
 
 
 
