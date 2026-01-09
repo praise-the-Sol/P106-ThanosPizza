@@ -1,13 +1,14 @@
 # Creation date : 22.08.2022
 # Created by : CSR
 # Description : Create two containers (one for the db and the other one of the administration front-end)
-# 
+# Modified by : Alia Delavy
+# Last modification : 09.01.2026
 version: '3.3'
 
 services:
   db:
     image: mysql:8.0.30
-    container_name: P106-db
+    container_name: P106-db-delavyalia
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_USER: db_user
