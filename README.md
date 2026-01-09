@@ -14,13 +14,13 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 | `/Docker/scripts/load-data.sql` | charge les données | OK |
 | `/Docker/scripts/requetes.sql` | les requêtes 1 à 10 | OK |
 | `/Docker/scripts/roles-users.sql` | création des rôles, des users et attribution des rôles | OK |
-| `/Docker/scripts/save-rest.sql` | commandes de backup et de restore | en cours |
 | `/Docker/scripts/transactions.sql` | scénario de transaction | OK |
 | `/Docker/scripts/backup/backup_complet.sh` | script du backup complet | OK |
 | `/Docker/scripts/backup/backup_diff.sh` | script du backup différentiel | OK |
 | `/Docker/scripts/backup/dernier_complet.txt` | enregistre la date du dernier backup complet | OK |
 | `/Docker/scripts/backup/complet/` | contient les backup complet | OK |
 | `/Docker/scripts/backup/diff/` | contient les backup différentiels | OK |
+| `/Docker/scripts/backup/restore.sql` | script de restauration | en cours |
 | `/Docker/scripts/DATA/` | contient les données | OK |
 ### Données
 - `t_adresse.csv`
@@ -32,6 +32,7 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 - `t_livreur.csv`
 - `t_paiement.csv`
 -  `vivre.csv`
+
 
 
 
