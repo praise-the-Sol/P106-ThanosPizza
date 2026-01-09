@@ -1,0 +1,2 @@
+schtasks /Create /F /TN "Thanos Pizza FULL backup" /SC WEEKLY /D SUN /ST 00:00 ^
+/TR "cmd /c docker exec P106-db-delavyalia bash -lc ""/var/lib/mysql-files/backup/backup_complet.sh"""

@@ -1,0 +1,2 @@
+schtasks /Create /F /TN "Thanos Pizza DIFF backup" /SC WEEKLY /D MON,TUE,WED,THU,FRI,SAT /ST 00:00 ^
+/TR "cmd /c docker exec P106-db-delavyalia bash -lc ""/var/lib/mysql-files/backup/backup_diff.sh"""

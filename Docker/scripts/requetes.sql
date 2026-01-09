@@ -66,7 +66,7 @@ ORDER BY c.commande_id ASC;
 SELECT p.commande_fk, ROUND(SUM(p.montant_paye), 2) AS total
 FROM t_paiement AS p
 GROUP BY p.commande_fk
-ORDER BY p.commande_fk ASC
+ORDER BY p.commande_fk ASC;
 
 -- REQUÊTE 9
 SELECT c.type, COUNT(*) AS type_commandes
