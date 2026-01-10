@@ -1,5 +1,5 @@
 set -e
-BASE=/var/lib/mysql-files/backup
+BASE=/scripts/backup
 mkdir -p "$BASE/complet" "$BASE/diff"
 FULL_FILE="$BASE/complet/complet_$(date +%F).sql"
 mysqldump -u root -proot \

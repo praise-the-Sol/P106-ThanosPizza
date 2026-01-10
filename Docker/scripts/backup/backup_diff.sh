@@ -1,5 +1,5 @@
 set -e
-BASE=/var/lib/mysql-files/backup
+BASE=/scripts/backup
 LAST=$(tr -d '\r\n' < "$BASE/dernier_complet.txt")
 OUT="$BASE/diff/diff_$(date +%F).sql"
 mkdir -p "$BASE/diff"
