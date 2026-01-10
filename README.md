@@ -24,15 +24,18 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 | [`/Docker/scripts/backup/diff/`](https://github.com/praise-the-Sol/P106-ThanosPizza/tree/main/Docker/scripts/backup/diff) | Contient les backup différentiels |
 | [`/Docker/scripts/DATA/`](https://github.com/praise-the-Sol/P106-ThanosPizza/tree/main/Docker/scripts/DATA) | Contient les données |
 ### Données
-- `t_adresse.csv`
-- `t_article.csv`
-- `t_client.csv`
-- `t_commande.csv`
-- `t_ligne_commande.csv`
-- `t_livraison.csv`
-- `t_livreur.csv`
-- `t_paiement.csv`
--  `vivre.csv`
+| Données |
+| --- |
+| `t_adresse.csv` |
+| `t_article.csv` |
+| `t_client.csv` |
+| `t_commande.csv` |
+| `t_ligne_commande.csv` |
+| `t_livraison.csv` |
+| `t_livreur.csv` |
+| `t_paiement.csv` |
+|  `vivre.csv` |
+
 
 
 
