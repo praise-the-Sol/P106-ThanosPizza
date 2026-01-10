@@ -18,8 +18,8 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 | [`/Docker/scripts/backup/backup_complet.sh`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/backup_complet.sh) | Script du backup complet |
 | [`/Docker/scripts/backup/backup_diff.sh`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/backup_diff.sh) | Script du backup différentiel |
 | [`/Docker/scripts/backup/dernier_complet.txt`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/dernier_complet.txt) | Enregistre la date du dernier backup complet |
-| [`/Docker/scripts/backup/tous_jours.txt`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/tous_jours.txt) | Script de programmation de la sauvegarde différentielle (LU-SA) |
-| [`/Docker/scripts/backup/tout_dimanche.txt`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/tout_dimanche.txt) | Script de programmation de la sauvegarde complète (DI) |
+| [`/Docker/scripts/backup/tous_jours.txt`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/tous_jours.txt) | Script de la sauvegarde auto différentielle (LU-SA) |
+| [`/Docker/scripts/backup/tout_dimanche.txt`](https://github.com/praise-the-Sol/P106-ThanosPizza/blob/main/Docker/scripts/backup/tout_dimanche.txt) | Script de la sauvegarde auto complète (DI) |
 |[`/Docker/scripts/backup/complet/`](https://github.com/praise-the-Sol/P106-ThanosPizza/tree/main/Docker/scripts/backup/complet) | Contient les backup complets |
 | [`/Docker/scripts/backup/diff/`](https://github.com/praise-the-Sol/P106-ThanosPizza/tree/main/Docker/scripts/backup/diff) | Contient les backup différentiels |
 | [`/Docker/scripts/DATA/`](https://github.com/praise-the-Sol/P106-ThanosPizza/tree/main/Docker/scripts/DATA) | Contient les données |
@@ -36,6 +36,7 @@ Charger des données, effectuer des requêtes SQL, définir des rôles et transa
 | `t_livreur.csv` |
 | `t_paiement.csv` |
 |  `vivre.csv` |
+
 
 
 
